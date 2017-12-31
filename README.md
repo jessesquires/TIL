@@ -4,7 +4,8 @@
 
 **Things I've learned and/or things I want to remember. Links, advice, examples, etc.**
 
-## Contents
+## Tech
+- [iOS](/ios)
 
-1. [iOS](/ios)
-1. [Activism](/activism)
+## Politics
+- [Activism](/activism)
