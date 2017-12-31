@@ -4,4 +4,4 @@
 
 ## Contents
 
-- [Donations](./donations.md), 
+- [Donations](./donations.md)
