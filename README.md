@@ -2,7 +2,7 @@
 
 *Today I Learned*
 
-**Things I've learned and/or things I want to remember. Links, advice, examples, etc.**
+**Things I've learned and/or things I want to remember. Links, advice, example code, etc.**
 
 ## Tech
 - [Contracting](/contracting)
