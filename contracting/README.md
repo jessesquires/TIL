@@ -1,6 +1,6 @@
 # Contracting
 
-*Tools and resources for indie contracting*
+*Tools and resources for indie dev contracting and freelance work*
 
 ### Tools for freelancers
 - Must haves: https://webflow.com/blog/21-must-have-tools-and-apps-for-freelance-designers
