@@ -12,6 +12,7 @@
 ## Contents
 
 - [APIs](./apis.md), notes on API usage, techniques, etc.
+- [Threads, Queues, GCD](./threads_and_queues.md)
 
 ## Links
 
