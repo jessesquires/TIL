@@ -16,5 +16,14 @@
 
 ## Links
 
+### Core Data
+
+- [The Laws of Core Data](http://davedelong.com/blog/2018/05/09/the-laws-of-core-data/)
+
+### Interface builder
+
 - [Interface builder tips and tricks](https://useyourloaf.com/blog/more-interface-builder-tips-and-tricks/)
+
+### Compiler
+
 - [Compiler optimizations](https://gist.github.com/lsavino/38367f10c2d20aeec4f031610d2929b8)
