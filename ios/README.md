@@ -7,6 +7,7 @@
 - [iOS Dev Weekly](http://iosdevweekly.com)
 - [objc.io](https://www.objc.io)
 - [Mike Ash, Friday Q & A](https://www.mikeash.com/pyblog/)
+- [Swift Unboxed](https://swiftunboxed.com)
 - [iOS Dev Directory](https://iosdevdirectory.com)
 
 ## Contents
