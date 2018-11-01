@@ -13,14 +13,10 @@
 ## Contents
 
 - [APIs](./apis.md), notes on API usage, techniques, etc.
+- [Core Data](./core_data.md)
 - [Threads, Queues, GCD](./threads_and_queues.md)
 
 ## Links
-
-### Core Data
-
-- [The Laws of Core Data](http://davedelong.com/blog/2018/05/09/the-laws-of-core-data/)
-- [NSPredicate](https://nspredicate.xyz)
 
 ### Interface builder
 
