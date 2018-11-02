@@ -15,14 +15,6 @@
 - [APIs](./apis.md), notes on API usage, techniques, etc.
 - [Core Data](./core_data.md)
 - [Frameworks](./frameworks.md)
+- [Swift Compiler](./swift_compiler.md)
 - [Threads, Queues, GCD](./threads_and_queues.md)
-
-## Links
-
-### Interface builder
-
-- [Interface builder tips and tricks](https://useyourloaf.com/blog/more-interface-builder-tips-and-tricks/)
-
-### Compiler
-
-- [Compiler optimizations](https://gist.github.com/lsavino/38367f10c2d20aeec4f031610d2929b8)
+- [UI](./ui.md)
