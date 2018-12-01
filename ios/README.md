@@ -15,6 +15,7 @@
 - [APIs](./apis.md), notes on API usage, techniques, etc.
 - [Core Data](./core_data.md)
 - [Frameworks](./frameworks.md)
+- [Performance](./performance.md)
 - [Swift Compiler](./swift_compiler.md)
 - [Threads, Queues, GCD](./threads_and_queues.md)
 - [UI](./ui.md)
