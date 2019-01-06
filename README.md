@@ -1,8 +1,6 @@
 # TIL 
 
-*Today I Learned*
-
-**Things I've learned and/or things I want to remember. Links, advice, example code, etc.**
+*[Today I Learned]<br/>Things I've learned and/or things I want to remember. Notes, links, advice, example code, etc.*
 
 ## Programming
 
