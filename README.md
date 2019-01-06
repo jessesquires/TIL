@@ -6,6 +6,7 @@
 
 - [iOS](/ios)
 - [Version Control](/version_control)
+- [Software Design Patterns](/software_design_patterns)
 
 ## Tech
 
