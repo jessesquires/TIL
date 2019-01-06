@@ -7,6 +7,7 @@
 ## Programming
 
 - [iOS](/ios)
+- [Version Control](/version_control)
 
 ## Tech
 
