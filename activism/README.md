@@ -4,3 +4,4 @@
 
 - [Tech Workers Coalition](https://www.techworkerscoalition.org)
 - [Donations](./donations.md)
+- [Social Justice](./social_justice.md)
