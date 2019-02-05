@@ -5,8 +5,9 @@
 ## Programming
 
 - [iOS](/ios)
-- [Version Control](/version_control)
 - [Software Design Patterns](/software_design_patterns)
+- [Software Testing](/software_testing)
+- [Version Control](/version_control)
 - [Bash](/bash)
 
 ## Tech
