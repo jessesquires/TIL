@@ -4,11 +4,12 @@
 
 ## Programming
 
+- [Bash](/bash)
 - [iOS](/ios)
 - [Software Design Patterns](/software_design_patterns)
 - [Software Testing](/software_testing)
+- [Swift](/swift)
 - [Version Control](/version_control)
-- [Bash](/bash)
 
 ## Tech
 
