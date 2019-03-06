@@ -8,3 +8,6 @@
 
 * [UIView styling with functions](https://felginep.github.io/2019-02-19/uiview-styling-with-functions)<br>
 Interesting way to style UIViews
+
+* [Two Takes on Adaptive Cell Layout](https://blog.alltheflow.com/two-takes-on-adaptive-cell-layout/)<br>
+On autolayout, adaptive table cells, and using UIStackView (or not!)
