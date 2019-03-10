@@ -6,6 +6,7 @@
 
 - [Bash](/bash)
 - [iOS](/ios)
+- [macOS](/macos)
 - [Software Design Patterns](/software_design_patterns)
 - [Software Testing](/software_testing)
 - [Swift](/swift)
