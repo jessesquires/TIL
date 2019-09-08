@@ -11,3 +11,5 @@ Interesting way to style UIViews
 
 * [Two Takes on Adaptive Cell Layout](https://blog.alltheflow.com/two-takes-on-adaptive-cell-layout/)<br>
 On autolayout, adaptive table cells, and using UIStackView (or not!)
+
+* [Popovers, UINavigationController, and preferredContentSize](https://noahgilmore.com/blog/popover-uinavigationcontroller-preferredcontentsize/)<br>Tricky to resize navigation controllers in popovers
