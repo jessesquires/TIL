@@ -12,7 +12,7 @@
 
 ## Contents
 
-- [APIs](./apis.md), notes on API usage, techniques, etc.
+- [APIs + Design](./apis_design.md)
 - [Core Data](./core_data.md)
 - [Frameworks](./frameworks.md)
 - [Performance](./performance.md)
