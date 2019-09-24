@@ -12,6 +12,8 @@
 
 #### Guides
 
+- [Apple Design Resources](https://developer.apple.com/design/resources/)
+- [Apple Marketing Guidelines, Product Images, etc.](https://developer.apple.com/app-store/marketing/guidelines/)
 - [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
 
 ## Contents
