@@ -14,6 +14,8 @@
 
 - [Apple Design Resources](https://developer.apple.com/design/resources/)
 - [Apple Marketing Guidelines, Product Images, etc.](https://developer.apple.com/app-store/marketing/guidelines/)
+- [App Screenshot Specs](https://help.apple.com/app-store-connect/#/devd274dd925)
+- [App Preview Specs](https://help.apple.com/app-store-connect/#/dev4e413fcb8)
 - [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
 
 ## Contents
