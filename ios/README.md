@@ -10,6 +10,10 @@
 - [Swift Unboxed](https://swiftunboxed.com)
 - [iOS Dev Directory](https://iosdevdirectory.com)
 
+#### Guides
+
+- [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
+
 ## Contents
 
 - [APIs + Design](./apis_design.md)
