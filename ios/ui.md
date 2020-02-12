@@ -15,3 +15,5 @@ On autolayout, adaptive table cells, and using UIStackView (or not!)
 * [Popovers, UINavigationController, and preferredContentSize](https://noahgilmore.com/blog/popover-uinavigationcontroller-preferredcontentsize/)<br>Tricky to resize navigation controllers in popovers
 
 * [Modality changes in iOS13](https://sarunw.com/posts/modality-changes-in-ios13)
+
+* [The Auto Layout Comprehendium™](http://mischa-hildebrand.de/en/2017/11/the-auto-layout-comprehendium/)
