@@ -8,3 +8,5 @@
 > 1. Always start with serial queues, and only use concurrent queues as a last resort
 > 1. Avoid using `dispatch_semaphore_t` to wait for asynchronous work
 > 1. Don’t use UIView tags
+
+- [libdispatch efficiency tips](https://gist.github.com/tclementdev/6af616354912b0347cdf6db159c37057)
