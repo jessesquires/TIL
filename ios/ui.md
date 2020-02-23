@@ -17,3 +17,7 @@ On autolayout, adaptive table cells, and using UIStackView (or not!)
 * [Modality changes in iOS13](https://sarunw.com/posts/modality-changes-in-ios13)
 
 * [The Auto Layout Comprehendium™](http://mischa-hildebrand.de/en/2017/11/the-auto-layout-comprehendium/)
+
+* [The iOS 13 Design Guidelines: An Illustrated Guide](https://learnui.design/blog/ios-design-guidelines-templates.html)
+
+* [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
