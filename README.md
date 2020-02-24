@@ -16,6 +16,7 @@
 
 - [App Development](/app_dev)
 - [Contracting](/contracting)
+- [Remote Work](/remote_work)
 - [iTunes](/itunes)
 
 ## Politics
