@@ -24,6 +24,7 @@
 - [APIs + Design](./apis_design.md)
 - [Core Data](./core_data.md)
 - [Frameworks](./frameworks.md)
+- [Localization](./localization.md)
 - [Performance](./performance.md)
 - [Subscriptions](./subscriptions.md)
 - [Swift Compiler](./swift_compiler.md)
