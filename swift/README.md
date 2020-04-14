@@ -7,6 +7,7 @@
 ## Tips and Tricks
 
 - [The power of key paths in Swift](https://www.swiftbysundell.com/posts/the-power-of-key-paths-in-swift)
+- [Making properties overridable only in debug builds](https://www.swiftbysundell.com/tips/making-properties-overridable-only-in-debug-builds/)
 
 ## Homebrew
 
