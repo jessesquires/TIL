@@ -1,5 +1,9 @@
 # Swift
 
+## Libraries
+
+- [ArgumentParser](https://github.com/apple/swift-argument-parser) ([blog post](https://swift.org/blog/argument-parser/))
+
 ## Tips and Tricks
 
 - [The power of key paths in Swift](https://www.swiftbysundell.com/posts/the-power-of-key-paths-in-swift)
