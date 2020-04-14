@@ -11,6 +11,7 @@
 - [Software Testing](/software_testing)
 - [Swift](/swift)
 - [Version Control](/version_control)
+- [Xcode](/xcode)
 
 ## Tech
 
