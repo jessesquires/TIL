@@ -20,6 +20,7 @@
 - [Remote Work](/remote_work)
 - [iTunes](/itunes)
 
-## Politics
+## Other
 
 - [Activism](/activism)
+- [Life](/life)
