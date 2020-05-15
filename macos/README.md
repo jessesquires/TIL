@@ -2,6 +2,10 @@
 
 *All things macOS*
 
+### AppKit
+
+- [Resources for learning Objective-C and AppKit](https://lapcatsoftware.com/articles/learning.html)
+
 ### Sandboxing, Notarization, Hardened Runtime, SIP
 
 - [Hardened Runtime and Sandboxing](https://lapcatsoftware.com/articles/hardened-runtime-sandboxing.html)
