@@ -10,7 +10,7 @@
 - [Swift Unboxed](https://swiftunboxed.com)
 - [iOS Dev Directory](https://iosdevdirectory.com)
 
-#### Guides
+## Guides
 
 - [Apple Design Resources](https://developer.apple.com/design/resources/)
 - [Apple Marketing Guidelines, Product Images, etc.](https://developer.apple.com/app-store/marketing/guidelines/)
