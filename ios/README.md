@@ -23,6 +23,7 @@
 
 - [APIs + Design](./apis_design.md)
 - [Core Data](./core_data.md)
+- [Debugging](./debugging.md)
 - [Frameworks](./frameworks.md)
 - [l10n + i18n](./l10n+i18n.md)
 - [Performance](./performance.md)
