@@ -7,3 +7,5 @@
 - [Maintaining a Homebrew Tap for Swift Projects](https://medium.com/@mxcl/maintaining-a-homebrew-tap-for-swift-projects-7287ed379324)
 
 - [Unsafe Swift: Using Pointers and Interacting With C](https://www.raywenderlich.com/7181017-unsafe-swift-using-pointers-and-interacting-with-c)
+
+- [Method Dispatch in Swift](https://www.rightpoint.com/rplabs/switch-method-dispatch-table)
