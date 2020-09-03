@@ -22,6 +22,7 @@
 ## Contents
 
 - [APIs + Design](./apis_design.md)
+- [App launch and startup times](./app_launch.md)
 - [Core Data](./core_data.md)
 - [Debugging](./debugging.md)
 - [Frameworks](./frameworks.md)
