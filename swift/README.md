@@ -9,3 +9,7 @@
 - [Unsafe Swift: Using Pointers and Interacting With C](https://www.raywenderlich.com/7181017-unsafe-swift-using-pointers-and-interacting-with-c)
 
 - [Method Dispatch in Swift](https://www.rightpoint.com/rplabs/switch-method-dispatch-table)
+
+#### Tip: mark a workaround for a bug as deprecated in next compiler version, [@olebegemann](https://twitter.com/olebegemann/status/1294583027583123458):
+
+> If you write a workaround for a bug, mark it as deprecated in the next compiler version to get a timely reminder to check if the bug has been fixed. If it has, delete the workaround. If it hasn’t, update the deprecation to the next version.
