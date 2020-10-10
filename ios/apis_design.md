@@ -10,4 +10,7 @@
 
 [Getting Started with Core Bluetooth](https://ditto.live/blog/posts/getting-started-with-core-bluetooth)
 
-[Crash Reporting with MetricKit](https://www.chimehq.com/blog/metrickit-crash-reporting)
+### MetricKit
+
+- [Crash Reporting with MetricKit](https://www.chimehq.com/blog/metrickit-crash-reporting)
+- [Benchmarking Your App with MetricKit](https://www.andyibanez.com/posts/benchmarking-app-metrickit/)
