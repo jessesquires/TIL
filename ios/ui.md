@@ -19,3 +19,5 @@ On autolayout, adaptive table cells, and using UIStackView (or not!)
 * [The iOS 13 Design Guidelines: An Illustrated Guide](https://learnui.design/blog/ios-design-guidelines-templates.html)
 
 * [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
+
+* [How iOS Apps Adapt to the various iPhone 12 Screen Sizes](https://hacknicity.medium.com/how-ios-apps-adapt-to-the-various-iphone-12-screen-sizes-e45c021e1b8b)
