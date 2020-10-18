@@ -28,6 +28,7 @@
 - [Frameworks](./frameworks.md)
 - [l10n + i18n](./l10n+i18n.md)
 - [Performance](./performance.md)
+- [Push Notifications](./push_notifications.md)
 - [Subscriptions](./subscriptions.md)
 - [Swift Compiler](./swift_compiler.md)
 - [Threads, Queues, GCD](./threads_and_queues.md)
