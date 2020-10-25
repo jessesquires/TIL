@@ -25,6 +25,7 @@
 - [App launch and startup times](./app_launch.md)
 - [Core Data](./core_data.md)
 - [Debugging](./debugging.md)
+- [Devices and Resolutions](./devices_resolutions.md)
 - [Frameworks](./frameworks.md)
 - [l10n + i18n](./l10n+i18n.md)
 - [Performance](./performance.md)
