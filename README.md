@@ -1,4 +1,4 @@
-# TIL 
+# TIL
 
 *__Today I Learned...__<br/>Things I've learned and/or things I want to remember. Notes, links, advice, example code, etc.*
 
@@ -22,5 +22,5 @@
 
 ## Other
 
-- [Activism](/activism)
+- [Politics](/politics)
 - [Life](/life)
