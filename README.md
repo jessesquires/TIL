@@ -8,6 +8,7 @@
 - [Computing](/computing) (misc)
 - [iOS](/ios)
 - [macOS](/macos)
+- [Open-source](/opensource)
 - [Software Design Patterns](/software_design_patterns)
 - [Software Testing](/software_testing)
 - [Swift](/swift)
