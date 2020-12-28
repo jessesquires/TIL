@@ -21,7 +21,7 @@
 - [Contracting](/contracting)
 - [Work](/work)
 
-# Other
+## Other
 
 - [Politics](/politics)
 - [Life](/life)
