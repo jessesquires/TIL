@@ -5,6 +5,7 @@
 ## Programming
 
 - [Bash](/bash)
+- [Computing](/computing) (misc)
 - [iOS](/ios)
 - [macOS](/macos)
 - [Software Design Patterns](/software_design_patterns)
