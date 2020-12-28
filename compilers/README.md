@@ -12,6 +12,7 @@
 > These are things you can do on your own. I’ve arranged them roughly in order of difficulty and time commitment, although of course the language / environment you pick will affect things.
 
 #### [LLVM tutorial](http://www.llvm.org/docs/tutorial/)
+> This is the “Kaleidoscope” Language tutorial, showing how to implement a simple language using LLVM components in C++.
 
 #### [Crafting interpreters](http://www.craftinginterpreters.com)
 > This book contains everything you need to implement a full-featured, efficient scripting language. You’ll learn both high-level concepts around parsing and semantics and gritty details like bytecode representation and garbage collection. Your brain will light up with new ideas, and your hands will get dirty and calloused. It’s a blast.
@@ -23,6 +24,8 @@
 > In my Advanced Compilers course last fall we spent some time poking around in the LLVM source tree. A million lines of C++ is pretty daunting but I found this to be an interesting exercise and at least some of the students agreed, so I thought I’d try to write up something similar. We’ll be using LLVM 3.9, but the layout isn’t that different for previous (and probably subsequent) releases.
 
 #### [2015 LLVM Developers’ Meeting: P. Robinson & M. Edwards "Living Downstream Without Drowning"](https://www.youtube.com/watch?v=INCi9gOVMug&list=WL&index=8)
+
+#### The [LLVM conference videos](https://www.youtube.com/c/LLVMPROJ/playlists) on YouTube.
 
 ## Trivia
 
