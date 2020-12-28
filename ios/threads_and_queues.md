@@ -1,7 +1,6 @@
 # Threads and Queues
 
-#### [libdispatch efficiency tips](
-https://gist.github.com/tclementdev/6af616354912b0347cdf6db159c37057):
+#### [libdispatch efficiency tips](https://gist.github.com/tclementdev/6af616354912b0347cdf6db159c37057):
 
 > The libdispatch is one of the most misused API due to the way it was presented to us when it was introduced and for many years after that, and due to the confusing documentation and API. This page is a compilation of important things to know if you're going to use this library. Many references are available at the end of this document pointing to comments from Apple's very own libdispatch maintainer (Pierre Habouzit).
 
