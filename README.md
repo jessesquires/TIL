@@ -6,6 +6,7 @@
 
 - [App Development](/app_dev)
 - [Bash](/bash)
+- [Compilers](/compilers)
 - [Computing](/computing) (misc)
 - [iOS](/ios)
 - [macOS](/macos)
