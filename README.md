@@ -4,6 +4,7 @@
 
 ## Programming
 
+- [App Development](/app_dev)
 - [Bash](/bash)
 - [Computing](/computing) (misc)
 - [iOS](/ios)
@@ -15,14 +16,12 @@
 - [Version Control](/version_control)
 - [Xcode](/xcode)
 
-## Tech
+## Work
 
-- [App Development](/app_dev)
 - [Contracting](/contracting)
-- [Remote Work](/remote_work)
-- [iTunes](/itunes)
+- [Work](/work)
 
-## Other
+# Other
 
 - [Politics](/politics)
 - [Life](/life)
