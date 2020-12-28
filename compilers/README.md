@@ -2,7 +2,7 @@
 
 *Resources for learning about compilers and "How To"*
 
-#### [Watch: "Building a Tiny Compiler](https://academy.realm.io/posts/tryswift-samuel-giddins-building-tiny-compiler-swift-ios/), Samuel Giddins
+#### [Watch: Building a Tiny Compiler](https://academy.realm.io/posts/tryswift-samuel-giddins-building-tiny-compiler-swift-ios/), Samuel Giddins
 > We all use compilers every day, but they still can seem like a mysterious black box at times. In this try! Swift talk, Samuel Giddins builds a tiny compiler for his made-up language 100% from scratch to get a feel for the basics of how compilers work.
 
 #### [Watch: How to Clang Your Dragon](https://www.skilled.io/u/playgroundscon/how-to-clang-your-dragon), Harlan Haskins
