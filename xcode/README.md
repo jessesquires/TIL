@@ -3,8 +3,13 @@
 ## Building
 
 - [Xcode Build Settings](https://xcodebuildsettings.com)
+
 - [Xcode Build Process](https://www.objc.io/issues/6-build-tools/build-process/)
+
+- [Build performance analysis for speeding up Xcode builds](https://www.avanderlee.com/optimization/analysing-build-performance-xcode/)
+
 - [Xcode Build Time Optimization](https://www.onswiftwings.com/posts/build-time-optimization-part1/)
+
 - [Xconfig: Simple Mac app to display build settings for the currently open Xcode projects](https://github.com/pfandrade/Xconfig)
 
 ## Static vs Dynamic libraries and frameworks
