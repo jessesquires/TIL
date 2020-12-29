@@ -1,6 +1,6 @@
 # Xcode
 
-## Building
+## `xcodebuild`, Xcode build process, etc.
 
 - [Xcode Build Settings](https://xcodebuildsettings.com)
 
