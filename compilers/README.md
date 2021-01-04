@@ -27,6 +27,8 @@
 
 #### The [LLVM conference videos](https://www.youtube.com/c/LLVMPROJ/playlists) on YouTube.
 
+#### [LLVM Weekly Newsletter](http://llvmweekly.org)
+
 ## Trivia
 
 - [Jordan Rose, @UINT_MIN](https://twitter.com/UINT_MIN/status/1098628355539124224):
