@@ -28,6 +28,8 @@
 ## Tutorials
 
 - [macOS NSTableView Tutorial](https://www.raywenderlich.com/830-macos-nstableview-tutorial), Ray Wenderlich
+- [macOS Controls Tutorial: Part 1/2](https://www.raywenderlich.com/759-macos-controls-tutorial-part-1-2), Ray Wenderlich
+- [macOS Controls Tutorial: Part 2/2](https://www.raywenderlich.com/760-macos-controls-tutorial-part-2-2), Ray Wenderlich
 
 ## Other
 
