@@ -22,12 +22,13 @@
 
 ## UI
 
+- [Apple HIG](https://developer.apple.com/design/human-interface-guidelines/macos/overview/themes/)
 - [A guide to NSButton styles](https://mackuba.eu/2014/10/06/a-guide-to-nsbutton-styles/)
-
-## Other
-
-- [macOS Developer Resources](https://github.com/hisaac/macOS-Developer-Resources)
 
 ## Tutorials
 
 - [macOS NSTableView Tutorial](https://www.raywenderlich.com/830-macos-nstableview-tutorial), Ray Wenderlich
+
+## Other
+
+- [macOS Developer Resources](https://github.com/hisaac/macOS-Developer-Resources)
