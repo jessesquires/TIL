@@ -27,9 +27,11 @@
 
 ## Tutorials
 
-- [macOS NSTableView Tutorial](https://www.raywenderlich.com/830-macos-nstableview-tutorial), Ray Wenderlich
-- [macOS Controls Tutorial: Part 1/2](https://www.raywenderlich.com/759-macos-controls-tutorial-part-1-2), Ray Wenderlich
-- [macOS Controls Tutorial: Part 2/2](https://www.raywenderlich.com/760-macos-controls-tutorial-part-2-2), Ray Wenderlich
+- Ray Wenderlich
+  - [macOS NSTableView Tutorial](https://www.raywenderlich.com/830-macos-nstableview-tutorial)
+  - [macOS Controls Tutorial: Part 1/2](https://www.raywenderlich.com/759-macos-controls-tutorial-part-1-2)
+  - [macOS Controls Tutorial: Part 2/2](https://www.raywenderlich.com/760-macos-controls-tutorial-part-2-2)
+  - [Windows and WindowController Tutorial for macOS](https://www.raywenderlich.com/613-windows-and-windowcontroller-tutorial-for-macos)
 
 ## Other
 
