@@ -32,6 +32,8 @@
   - [macOS Controls Tutorial: Part 1/2](https://www.raywenderlich.com/759-macos-controls-tutorial-part-1-2)
   - [macOS Controls Tutorial: Part 2/2](https://www.raywenderlich.com/760-macos-controls-tutorial-part-2-2)
   - [Windows and WindowController Tutorial for macOS](https://www.raywenderlich.com/613-windows-and-windowcontroller-tutorial-for-macos)
+  - [Drag and Drop Tutorial for macOS](https://www.raywenderlich.com/1016-drag-and-drop-tutorial-for-macos)
+  - [FileManager Class Tutorial for macOS: Getting Started with the File System](https://www.raywenderlich.com/666-filemanager-class-tutorial-for-macos-getting-started-with-the-file-system)
 
 ## Other
 
