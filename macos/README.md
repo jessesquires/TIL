@@ -2,6 +2,12 @@
 
 *All things macOS*
 
+## Distribution
+
+#### [Distributing Mac apps outside the App Store, a quick start guide](https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store), Guilherme Rambo
+
+> This article is my brain dump on the subject. It is meant to be a guide on the things that you’ll need to know about when distributing a Mac app outside the App Store, rather than a how-to tutorial. My hope is that having everything listed here will help demystify the process for beginners, and the descriptions of my own process will be useful as starting points.
+
 ## AppKit
 
 #### [Resources for learning Objective-C and AppKit](https://lapcatsoftware.com/articles/learning.html), Jeff Johnson
