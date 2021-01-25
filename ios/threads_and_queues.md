@@ -16,8 +16,22 @@ Queues with `.background` Quality of Service (QoS) may *never* be executed, e.g.
 
 #### [What went wrong with the libdispatch. A tale of caution for the future of concurrency.](https://tclementdev.com/posts/what_went_wrong_with_the_libdispatch.html)
 
+> Fast-forward to today's 2020 and most consumer machines have about 4 cores and pro machines have about 8 to 12 cores. Something must have gone wrong along the way. Spoiler: multithreading is hard.
+>
+> [...]
+>
+> How would serial queues help us with concurrency? Well various program components would have their own private queue which would be used to ensure thread-safety (locks would not even be needed anymore) and those components would be concurrent between themselves. They told us these were "islands of serialization in a sea of concurrency".
+
 #### [Atomic property wrapper in Swift](https://www.onswiftwings.com/posts/atomic-property-wrapper/)
+
+> Let’s take a closer look at this feature and check how can we use it to define atomic properties in Swift.
 
 #### [Russ Bishop: The Law. Atomics Are Hard](http://www.russbishop.net/the-law)
 
 > Swift 5 turns on exclusivity checking by default. This has some interesting interactions with atomics, especially when running under the Thread Sanitizer (TSAN). If you've ever seen a TSAN report on some simple Swift code that looks obviously correct then you're probably running into this issue:
+
+#### [What does “atomic” mean in programming?](https://www.donnywals.com/what-does-atomic-mean-in-programming/)
+
+> Generally, you can summarize atomic as "one at a time".
+>
+> For example, when accessing or mutating a property is atomic, it means that only one read or write operation can be performed at a time. If you have a program that reads a property atomically, this means that the property cannot change during this read operation.
