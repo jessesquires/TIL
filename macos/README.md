@@ -12,6 +12,10 @@
 
 #### [Resources for learning Objective-C and AppKit](https://lapcatsoftware.com/articles/learning.html), Jeff Johnson
 
+#### [Fucking NSImage Syntax](https://hetima.github.io/fucking_nsimage_syntax/)
+
+> A list of system image names that can be used for `+[NSImage imageNamed:]`
+
 #### [Appreciating AppKit, Part 1](https://pilky.me/appreciating-appkit-part-1/)
 > AppKit is Apple's UI framework for building apps for the Mac. It has existed in one form or another for around 30 years and is the basis for many of the concepts and features of UIKit on iOS. Understandably, given its age, it has quite a few quirks and dated features. Some can simply be ignored, such as drawers. Others are still core to how parts of AppKit function, such as NSCell. These features can make AppKit seem daunting and difficult to work with, especially for those who have only known UIKit.
 
