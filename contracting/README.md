@@ -12,3 +12,10 @@
 
 - [On using NDAs](http://www.allenpike.com/2016/disclosure-indicator)
 - [On getting paid](http://www.allenpike.com/2016/getting-paid-receivables)
+
+### Email Templates
+
+Useful for invoices.
+
+- [How to Save and Use Messages as Templates in Apple Mail](https://www.lifewire.com/save-use-messages-as-templates-os-x-1172794)
+- [Fastmail: Templates](https://www.fastmail.help/hc/en-us/articles/360060591293-Templates)
