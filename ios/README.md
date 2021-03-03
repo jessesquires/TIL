@@ -17,6 +17,7 @@
 - [App Screenshot Specs](https://help.apple.com/app-store-connect/#/devd274dd925)
 - [App Preview Specs](https://help.apple.com/app-store-connect/#/dev4e413fcb8)
 - [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
+- [The Wisdom of Quinn: Informative DevForum posts from everyone's favorite DTS member](https://gist.github.com/macshome/0753d3fdf711cfe699533fe5059e50e2)
 
 ## Contents
 
