@@ -50,4 +50,6 @@
 
 ## Other
 
+- [The Wisdom of Quinn: Informative DevForum posts from everyone's favorite DTS member](https://gist.github.com/macshome/0753d3fdf711cfe699533fe5059e50e2)
+
 - [macOS Developer Resources](https://github.com/hisaac/macOS-Developer-Resources)
