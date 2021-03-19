@@ -2,7 +2,7 @@
 
 ## Tips and Tricks
 
-Find a list of [useful tips here](./xcode_tips.md).
+Find a list of [useful tips here](https://xcode-tips.github.io).
 
 ## Xcode build process
 
