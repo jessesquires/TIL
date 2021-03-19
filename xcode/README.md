@@ -1,6 +1,10 @@
 # Xcode
 
-## `xcodebuild`, Xcode build process, etc.
+## Tips! :bulb:
+
+Find a list of [useful tips here](./xcode_tips.md).
+
+## Xcode build process
 
 - [Xcode Build Settings](https://xcodebuildsettings.com)
 
