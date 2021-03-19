@@ -4,6 +4,20 @@
 
 > The libdispatch is one of the most misused API due to the way it was presented to us when it was introduced and for many years after that, and due to the confusing documentation and API. This page is a compilation of important things to know if you're going to use this library. Many references are available at the end of this document pointing to comments from Apple's very own libdispatch maintainer (Pierre Habouzit).
 
+#### [Underused and Overused GCD Patterns](https://mjtsai.com/blog/2021/03/16/underused-and-overused-gcd-patterns/)
+
+> Underused GCD patterns:
+>
+>  - Making a serial queue that’s less aggressive about creating threads (“non-overcommit”) [...]
+>  - Multiplexing work onto a single serial queue efficiently [...]
+> 
+> Probably overused GCD patterns:
+>
+> - Global queues as anything but targets
+> - Almost any use of concurrent queues
+> - Queues as locks; os_unfair_lock is more efficient (sadly a little trickier to use in Swift; no ideal solution here yet)
+> - Turning async into sync with semaphores
+
 #### Quality of Service
 Queues with `.background` Quality of Service (QoS) may *never* be executed, e.g. low power mode, so plan accordingly.
 - If using `.background`, you probably want `.utility` instead.
