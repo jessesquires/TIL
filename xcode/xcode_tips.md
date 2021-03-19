@@ -1,3 +1,3 @@
-# Xcode Tips :bulb:
+# Xcode Tips 💡
 
-*The more you know!* :sunglasses:
+The more you know.. 😎
