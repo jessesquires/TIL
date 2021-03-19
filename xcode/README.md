@@ -1,6 +1,6 @@
 # Xcode
 
-## Tips! :bulb:
+## Tips and Tricks
 
 Find a list of [useful tips here](./xcode_tips.md).
 
