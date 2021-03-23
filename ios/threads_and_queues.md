@@ -49,3 +49,11 @@ Queues with `.background` Quality of Service (QoS) may *never* be executed, e.g.
 > Generally, you can summarize atomic as "one at a time".
 >
 > For example, when accessing or mutating a property is atomic, it means that only one read or write operation can be performed at a time. If you have a program that reads a property atomically, this means that the property cannot change during this read operation.
+
+#### [How NetNewsWire Handles Threading](https://inessential.com/2021/03/20/how_netnewswire_handles_threading)
+
+> NetNewsWire is mostly *not* multi-threaded. Here’s what we do...
+
+#### [Benefits of NetNewsWire’s Threading Model](https://inessential.com/2021/03/21/benefits_of_netnewswires_threading_model)
+
+> In my previous post I describe how NetNewsWire handles threading, and I touch on some of the benefits — but I want to be more explicit about them.
