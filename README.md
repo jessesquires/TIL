@@ -5,6 +5,7 @@
 ## Programming
 
 - [App Development](./app_dev)
+- [Apple Platform Development](./apple_platform)
 - [Bash](./bash)
 - [Compilers](./compilers)
 - [Computing](./computing) (misc)

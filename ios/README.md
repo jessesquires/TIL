@@ -2,6 +2,8 @@
 
 *All things iOS*
 
+See also: [Apple Platform Development](../apple_platform)
+
 ## General resources
 
 - [iOS Dev Weekly](http://iosdevweekly.com)
@@ -23,12 +25,8 @@
 
 - [APIs + Design](./apis_design.md)
 - [App launch and startup times](./app_launch.md)
-- [Core Data](./core_data.md)
-- [Dates](./dates.md)
 - [Debugging](./debugging.md)
 - [Devices and Resolutions](./devices_resolutions.md)
-- [Frameworks](./frameworks.md)
-- [l10n + i18n](./l10n+i18n.md)
 - [Performance](./performance.md)
 - [Push Notifications](./push_notifications.md)
 - [Simulator](./simulator.md)
