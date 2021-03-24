@@ -2,7 +2,7 @@
 
 *Resources common to iOS, macOS, tvOS, watchOS, etc.*
 
-See also: [iOS](./ios) and [macOS](./macos)
+See also: [iOS](../ios) and [macOS](../macos)
 
 ## Contents
 
