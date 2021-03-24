@@ -1,6 +1,6 @@
 # SwiftUI
 
-[Official documentation here](https://developer.apple.com/documentation/swiftui).
+You can find the [official documentation here](https://developer.apple.com/documentation/swiftui).
 
 #### [MemeMaker on GitHub](https://github.com/dempseyatgithub/MemeMaker)
 
