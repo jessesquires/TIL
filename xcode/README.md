@@ -16,6 +16,10 @@ Find a list of [useful tips here](https://xcode-tips.github.io).
 
 - [Xconfig: Simple Mac app to display build settings for the currently open Xcode projects](https://github.com/pfandrade/Xconfig)
 
+- [Digging deeper into xcbuild: Rules and Tasks](https://asifmohd.github.io/ios/2021/03/11/xcbuild-debug-info.html)
+
+- [New Build System Tricks](https://gist.github.com/ddunbar/2dda0e836c855ea96759d1d05f086d69), by Daniel Dunbar
+
 ## Automatically setting Xcode project build numbers
 
 - [Automated Xcode version and build numbering via Git](https://mokacoding.com/blog/automatic-xcode-versioning-with-git/)
