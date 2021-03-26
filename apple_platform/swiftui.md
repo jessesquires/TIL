@@ -37,3 +37,23 @@ You can find the [official documentation here](https://developer.apple.com/docum
 #### [Setting up a multi-platform SwiftUI project](https://blog.scottlogic.com/2021/03/04/Multiplatform-SwiftUI.html)
 
 > This blog will take a look at a basic setup for a multi-platform SwiftUI app.
+
+#### [MatchedGeometryEffect | The SwiftUI Lab](https://swiftui-lab.com/matchedgeometryeffect-part1/)
+
+> We are talking about a new extension to the View protocol, the .matchedGeometryEffect() modifier. On its own, it’s good enough, but in combination with other techniques we learned already (custom transitions and animatable modifiers), it becomes even better. It is an essential skill to put in your SwiftUI toolkit.
+
+#### [Generating automatic placeholders for SwiftUI views](https://www.swiftbysundell.com/tips/swiftui-automatic-placeholders/)
+
+> SwiftUI now ships with a new, built-in modifier that makes it really easy to automatically generate a placeholder for any view. 
+
+#### [Creating custom `.redacted` effects](https://fivestars.blog/code/redacted-custom-effects.html)
+
+> With the recent release of Xcode 12 we’ve gained a new `.redacted(reason:)` SwiftUI modifier.
+
+#### [Impossible Grids with SwiftUI](https://swiftui-lab.com/impossible-grids/)
+
+> Native support for grids in SwiftUI is finally here. This is made possible by two new views. These are LazyVGrid and LazyHGrid.
+
+#### [Fetching objects from Core Data in a SwiftUI project](https://www.donnywals.com/fetching-objects-from-core-data-in-a-swiftui-project/)
+
+> When you've added Core Data to your SwiftUI project and you have some data stored in your database, the next hurdle is to somehow fetch that data from your Core Data store and present it to the user.
