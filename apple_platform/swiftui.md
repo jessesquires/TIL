@@ -2,9 +2,13 @@
 
 You can find the [official documentation here](https://developer.apple.com/documentation/swiftui).
 
+## Example Projects
+
 #### [MemeMaker on GitHub](https://github.com/dempseyatgithub/MemeMaker)
 
 > An app that composes text over an image in SwiftUI
+
+## How To
 
 #### [How SwiftUI can now be used to build entire iOS apps](https://wwdcbysundell.com/2020/building-entire-apps-with-swiftui/)
 
