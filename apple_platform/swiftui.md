@@ -21,6 +21,12 @@ You can find the [official documentation here](https://developer.apple.com/docum
 - [Apple Documentation and SwiftUI for Mac](https://mjtsai.com/blog/2021/02/26/apple-documentation-and-swiftui-for-mac/)
 - [The State of SwiftUI](https://mjtsai.com/blog/2020/09/18/the-state-of-swiftui/)
 
+## Debugging
+
+#### [Building SwiftUI debugging utilities](https://www.swiftbysundell.com/articles/building-swiftui-debugging-utilities/)
+
+> When working on any kind of app or system, it’s almost guaranteed that we’ll need to debug our code at one point or another. For example in order to reproduce a bug that’s been reported to us by either a tester or a user, to track down a race condition or some other source of ambiguity within our logic, or to fix a view that’s not being rendered correctly.
+
 ## How To
 
 #### [How SwiftUI can now be used to build entire iOS apps](https://wwdcbysundell.com/2020/building-entire-apps-with-swiftui/)
