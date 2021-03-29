@@ -27,6 +27,10 @@ You can find the [official documentation here](https://developer.apple.com/docum
 
 > When working on any kind of app or system, it’s almost guaranteed that we’ll need to debug our code at one point or another. For example in order to reproduce a bug that’s been reported to us by either a tester or a user, to track down a race condition or some other source of ambiguity within our logic, or to fix a view that’s not being rendered correctly.
 
+#### [Inspecting SwiftUI views](https://fivestars.blog/swiftui/inspecting-views.html)
+
+> But what if we wanted to know more about that view? In this article, let’s explore how we can do so.
+
 ## How To
 
 #### [How SwiftUI can now be used to build entire iOS apps](https://wwdcbysundell.com/2020/building-entire-apps-with-swiftui/)
@@ -80,3 +84,11 @@ You can find the [official documentation here](https://developer.apple.com/docum
 #### [Sharing layout information in SwiftUI](https://fivestars.blog/swiftui/swiftui-share-layout-information.html)
 
 > SwiftUI views layout depends on each view state. This state is composed of a mix of internal properties, external values coming from the environment, etc.
+
+#### [Label](https://fivestars.blog/swiftui/label.html)
+
+> In this article, let’s explore this view beyond the basics.
+
+#### [NSUserActivity with SwiftUI](https://swiftui-lab.com/nsuseractivity-with-swiftui/)
+
+> And now that SwiftUI also supports user activities and the scene delegates are gone, there’s even more change. A good time then, for a new article.
