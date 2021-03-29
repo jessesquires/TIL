@@ -5,7 +5,7 @@
 ### Learning
 
 - [Learn Python the Hard Way](https://learncodethehardway.org/python/)
-- [Python Courses & Tutorials | Codecademy](https://www.codecademy.com/catalog/language/python)
+- [Codecademy: Python Courses & Tutorials](https://www.codecademy.com/catalog/language/python)
 - [Google's Python Class](https://developers.google.com/edu/python/)
 
 ### Conferences
