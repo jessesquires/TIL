@@ -10,14 +10,14 @@
     - [Swift](./swift)
     - [Xcode](./xcode)
 
-#### Languages
+### Languages
 
 - [Bash](./bash)
 - [Python](./python)
 - [Ruby](./ruby)
 - [Swift](./swift)
 
-#### Other programming topics
+### Other programming topics
 
 - [Compilers](./compilers)
 - [Open source](./opensource)
