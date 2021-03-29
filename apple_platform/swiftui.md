@@ -31,6 +31,28 @@ You can find the [official documentation here](https://developer.apple.com/docum
 
 > But what if we wanted to know more about that view? In this article, let’s explore how we can do so.
 
+## Behind the scenes: How SwiftUI works
+
+#### [How an Hstack Lays out Its Children](https://www.objc.io/blog/2020/11/09/hstacks-child-ordering/)
+
+> For the most part SwiftUI’s layout system is intuitive to use, letting you achieve what you want with a little bit of experimentation. However, sometimes you encounter behaviors that are hard to reason about without a deeper understanding of the underlying implementation.
+
+#### [SwiftUI’s Grid Views](https://www.objc.io/blog/2020/11/23/grid-layout/)
+
+> A few days ago we tweeted a series of layout quizzes for SwiftUI’s LazyVGrid to highlight some of the less obvious behaviors. In this post we’ll take a look at all three quiz questions and explain why the grid lays out its contents in the way it does.
+>
+> Interestingly, we were not the only ones struggling to understand the behavior of grids: none of the most popular quiz answers were correct!
+
+#### [SwiftUI View Lifecycle](https://www.vadimbulavin.com/swiftui-view-lifecycle/)
+
+> Each view undergoes a series of events from its birth to its death, which is referred to as a lifecycle. Understanding it is essential when building apps in SwiftUI. In this article, we will explore the three phases of the SwiftUI view lifecycle.
+
+#### [The Ultimate Guide to the SwiftUI 2 Application Life Cycle](https://peterfriese.dev/ultimate-guide-to-swiftui2-application-lifecycle/)
+
+> For the longest time, iOS developers have used AppDelegates as the main entry point for their applications. With the launch of SwiftUI2 at WWDC 2020, Apple has introduced a new application life cycle that (almost) completely does away with AppDelegate, making way for a DSL-like approach.
+>
+> In this article, I will discuss why this change was introduced, and how you can make use of the new life cycle in new or existing apps.
+
 ## How To
 
 #### [How SwiftUI can now be used to build entire iOS apps](https://wwdcbysundell.com/2020/building-entire-apps-with-swiftui/)
