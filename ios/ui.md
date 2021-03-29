@@ -35,3 +35,7 @@ On autolayout, adaptive table cells, and using UIStackView (or not!)
 #### [Tweaking The iOS System Fonts](https://useyourloaf.com/blog/tweaking-the-ios-system-fonts/)
 
 > Before you switch to a custom font don’t overlook how much you can tweak the appearance of the system fonts. A quick review of some font APIs that work for both UIKit and SwiftUI.
+
+#### [Discoverable Key Commands](https://indiestack.com/2021/03/discoverable-key-commands/)
+
+> One standard behavior of iPadOS is that when an app supports keyboard shortcuts, simply holding down the command key presents a nice heads-up display (HUD) with the list of shortcuts. For example, if you press the command key on the iPad home screen, you’ll see something like this...
