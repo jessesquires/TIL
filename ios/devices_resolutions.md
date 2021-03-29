@@ -1,4 +1,4 @@
-# Devices and Resolutions
+# iOS Devices and Resolutions
 
 ### Resolutions
 

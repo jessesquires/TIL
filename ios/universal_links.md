@@ -1,4 +1,4 @@
-# Universal Links
+# iOS Universal Links
 
 [Preflight possible universal links before opening SFSafariController](https://recoursive.com/2019/02/22/preflight_universal_links/)
 

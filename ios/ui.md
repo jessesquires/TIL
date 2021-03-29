@@ -1,4 +1,4 @@
-# UI, UIKit, and more
+# iOS UI, UIKit, Auto Layout, etc.
 
 #### [Variable Width Strings](https://useyourloaf.com/blog/variable-width-strings/)
 
