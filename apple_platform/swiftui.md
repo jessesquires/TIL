@@ -11,6 +11,7 @@ You can find the [official documentation here](https://developer.apple.com/docum
 ## Collections
 
 - [Discover SwiftUI on Swift by Sundell](https://www.swiftbysundell.com/discover/swiftui/)
+- [Swift with Majid](https://swiftwithmajid.com/archive/)
 - [The SwiftUI Lab](https://swiftui-lab.com)
 - [SwiftUI Weekly](http://weekly.swiftwithmajid.com)
 
