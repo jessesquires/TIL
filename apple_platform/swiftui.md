@@ -52,6 +52,12 @@ You can find the [official documentation here](https://developer.apple.com/docum
 >
 > In this article, I will discuss why this change was introduced, and how you can make use of the new life cycle in new or existing apps.
 
+## Working with Core Data
+
+#### [Quick guide to using Core Data with SwiftUI](https://tanaschita.com/20210320-using-core-data-with-swiftui)
+
+> The easiest way to see how Core Data works with SwiftUI is by creating a new SwiftUI project and selecting the Use Core Data checkmark. Xcode will generate a working example that we can try out and review immediately.
+
 ## How To
 
 #### [How SwiftUI can now be used to build entire iOS apps](https://wwdcbysundell.com/2020/building-entire-apps-with-swiftui/)
@@ -113,3 +119,7 @@ You can find the [official documentation here](https://developer.apple.com/docum
 #### [NSUserActivity with SwiftUI](https://swiftui-lab.com/nsuseractivity-with-swiftui/)
 
 > And now that SwiftUI also supports user activities and the scene delegates are gone, there’s even more change. A good time then, for a new article.
+
+#### [How to show and hide content with DisclosureGroup using SwiftUI](https://kristaps.me/blog/swiftui-disclosure-group/)
+
+> Now with the new SwiftUI capabilities, we can collapse content with DisclosureGroup. Let's see how we could use it in various ways.
