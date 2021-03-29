@@ -2,9 +2,18 @@
 
 You can find the [official documentation here](https://developer.apple.com/documentation/swiftui).
 
-## Example Projects + Tutorials
+## Example Apps
 
-- [MemeMaker on GitHub](https://github.com/dempseyatgithub/MemeMaker)
+Apps built fully (or mostly) with SwiftUI.
+
+- [isowords](https://github.com/pointfreeco/isowords)
+- [RedditOS](https://github.com/Dimillian/RedditOS)
+- [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
+- [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI)
+- [MemeMaker](https://github.com/dempseyatgithub/MemeMaker)
+
+## Guided Tutorials
+
 - [Apple: iOS App Dev with SwiftUI Tutorials](https://developer.apple.com/tutorials/app-dev-training/#swiftui-essentials)
 
 ## Collections
