@@ -12,6 +12,13 @@ You can find the [official documentation here](https://developer.apple.com/docum
 
 - [Discover SwiftUI on Swift by Sundell](https://www.swiftbysundell.com/discover/swiftui/)
 - [The SwiftUI Lab](https://swiftui-lab.com)
+- [SwiftUI Weekly](http://weekly.swiftwithmajid.com)
+
+## API Changes + Known Issues
+
+- [SwiftUI betas - what changed before 1.0](https://mackuba.eu/2020/08/17/swiftui-beta/)
+- [Apple Documentation and SwiftUI for Mac](https://mjtsai.com/blog/2021/02/26/apple-documentation-and-swiftui-for-mac/)
+- [The State of SwiftUI](https://mjtsai.com/blog/2020/09/18/the-state-of-swiftui/)
 
 ## How To
 
@@ -62,3 +69,7 @@ You can find the [official documentation here](https://developer.apple.com/docum
 #### [Fetching objects from Core Data in a SwiftUI project](https://www.donnywals.com/fetching-objects-from-core-data-in-a-swiftui-project/)
 
 > When you've added Core Data to your SwiftUI project and you have some data stored in your database, the next hurdle is to somehow fetch that data from your Core Data store and present it to the user.
+
+#### [Sharing layout information in SwiftUI](https://fivestars.blog/swiftui/swiftui-share-layout-information.html)
+
+> SwiftUI views layout depends on each view state. This state is composed of a mix of internal properties, external values coming from the environment, etc.
