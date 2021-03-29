@@ -19,13 +19,10 @@
 
 #### Other programming topics
 
-- [App Development](./app_dev)
 - [Compilers](./compilers)
-- [Computing](./computing) (misc)
 - [Open source](./opensource)
-- [Software Design Patterns](./software_design_patterns)
-- [Software Testing](./software_testing)
-- [Version Control](./version_control)
+- [Software Development](./software_dev) (general)
+- [Web Development](.web_dev)
 
 ## Work
 
