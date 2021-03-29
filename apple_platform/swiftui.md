@@ -120,3 +120,7 @@ You can find the [official documentation here](https://developer.apple.com/docum
 #### [How to show and hide content with DisclosureGroup using SwiftUI](https://kristaps.me/blog/swiftui-disclosure-group/)
 
 > Now with the new SwiftUI capabilities, we can collapse content with DisclosureGroup. Let's see how we could use it in various ways.
+
+#### [Mastering transitions in SwiftUI](https://nerdyak.tech/development/2020/10/12/transitions-in-swiftui.html)
+
+> In this article, we will go through all important parts related to the implementation of transitions in SwiftUI - from the very basics to more advanced techniques.
