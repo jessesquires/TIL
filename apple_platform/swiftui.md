@@ -29,6 +29,7 @@ Apps built fully (or mostly) with SwiftUI.
 - [Apple Documentation and SwiftUI for Mac](https://mjtsai.com/blog/2021/02/26/apple-documentation-and-swiftui-for-mac/)
 - [The State of SwiftUI](https://mjtsai.com/blog/2020/09/18/the-state-of-swiftui/)
 - [What’s new in SwiftUI for iOS 14](https://www.hackingwithswift.com/articles/221/whats-new-in-swiftui-for-ios-14)
+- [Poor performance for macOS apps](https://mobile.twitter.com/steipete/status/1376540592205860865)
 
 ## Debugging
 
