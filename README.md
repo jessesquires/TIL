@@ -4,19 +4,28 @@
 
 ## Programming
 
-- [App Development](./app_dev)
 - [Apple Platform Development](./apple_platform)
+    - [iOS](./ios)
+    - [macOS](./macos)
+    - [Swift](./swift)
+    - [Xcode](./xcode)
+
+#### Languages
+
 - [Bash](./bash)
+- [Python](./python)
+- [Ruby](./ruby)
+- [Swift](./swift)
+
+#### Other programming topics
+
+- [App Development](./app_dev)
 - [Compilers](./compilers)
 - [Computing](./computing) (misc)
-- [iOS](./ios)
-- [macOS](./macos)
 - [Open source](./opensource)
 - [Software Design Patterns](./software_design_patterns)
 - [Software Testing](./software_testing)
-- [Swift](./swift)
 - [Version Control](./version_control)
-- [Xcode](./xcode)
 
 ## Work
 
