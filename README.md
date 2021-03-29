@@ -22,7 +22,7 @@
 - [Compilers](./compilers)
 - [Open source](./opensource)
 - [Software Development](./software_dev) (general)
-- [Web Development](.web_dev)
+- [Web Development](./web_dev)
 
 ## Work
 
