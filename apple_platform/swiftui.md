@@ -2,11 +2,10 @@
 
 You can find the [official documentation here](https://developer.apple.com/documentation/swiftui).
 
-## Example Projects
+## Example Projects + Tutorials
 
-#### [MemeMaker on GitHub](https://github.com/dempseyatgithub/MemeMaker)
-
-> An app that composes text over an image in SwiftUI
+- [MemeMaker on GitHub](https://github.com/dempseyatgithub/MemeMaker)
+- [Apple: iOS App Dev with SwiftUI Tutorials](https://developer.apple.com/tutorials/app-dev-training/#swiftui-essentials)
 
 ## Collections
 
