@@ -37,6 +37,7 @@ Apps built fully (or mostly) with SwiftUI.
 - [Supporting Both Tap and Long Press on a Button in SwiftUI](https://steipete.me/posts/supporting-both-tap-and-longpress-on-button-in-swiftui/)
 - [Disabling Keyboard Avoidance in SwiftUI's UIHostingController](https://steipete.me/posts/disabling-keyboard-avoidance-in-swiftui-uihostingcontroller/)
 - [Poor performance for macOS apps](https://mobile.twitter.com/steipete/status/1376540592205860865)
+- [Keyboard Navigation in SwiftUI](https://pspdfkit.com/blog/2021/keyboard-navigation-in-swiftui/)
 
 ## Debugging
 
@@ -141,3 +142,47 @@ Apps built fully (or mostly) with SwiftUI.
 #### [Mastering transitions in SwiftUI](https://nerdyak.tech/development/2020/10/12/transitions-in-swiftui.html)
 
 > In this article, we will go through all important parts related to the implementation of transitions in SwiftUI - from the very basics to more advanced techniques.
+
+#### [Encapsulating SwiftUI view styles](https://www.swiftbysundell.com/articles/encapsulating-swiftui-view-styles/)
+
+> However, if we start exploring SwiftUI’s various APIs and conventions a bit further, it turns out that there are a number of tools and techniques that we can use to create a clean separation between our view hierarchy, its styles, and the components that we’re looking to reuse across a given project.
+
+#### [Handling loading states within SwiftUI views](https://www.swiftbysundell.com/articles/handling-loading-states-in-swiftui/)
+
+> One of the most important aspects of that kind of asynchronous work, at least when it comes to building UI-based apps, is figuring out how to reliably update our various views according to the current state of the background operations that we’ll perform. So this week, let’s take a look at a few different options on how to do just that when building views using SwiftUI.
+
+#### [Adaptive SwiftUI views](https://fivestars.blog/swiftui/adaptive-swiftui-views.html)
+
+> While this is great and can save us hundreds of hours, sometimes we want to make our UI declarations even more adaptive: in this article, let’s see how we can do so.
+
+#### [Attributed Strings with SwiftUI](https://swiftui-lab.com/attributed-strings-with-swiftui/)
+
+> Before we begin, let’s put it right there: SwiftUI is not prepared to handle attributed strings easily. With that out of the way, let’s see the best approaches to fill that void and the limitations or problems we will find along the way.
+
+#### [Keyboard shortcuts in SwiftUI](https://swiftwithmajid.com/2020/11/17/keyboard-shortcuts-in-swiftui/)
+
+> This week, we will discuss the new keyboardShortcut modifier, which allows us to assign a shortcut to any interacting view.
+
+#### [Focus management in SwiftUI](https://swiftwithmajid.com/2020/12/02/focus-management-in-swiftui/)
+
+> One of these new APIs was the focus management API that we can use on iOS, macOS, tvOS, and watchOS. This week we will talk about SwiftUI functionality that allows us to manage the focus in our apps.
+
+#### [Avoiding SwiftUI’s AnyView](https://www.swiftbysundell.com/articles/avoiding-anyview-in-swiftui/)
+
+> So, in this article, let’s take a look at two core techniques that can help us avoid AnyView while still enabling us to work with multiple view types in very dynamic ways.
+
+#### [Which SwiftUI property wrapper to choose in any situation](https://www.hackingwithswift.com/articles/227/which-swiftui-property-wrapper)
+
+> SwiftUI uses property wrappers to understand how we create and store data in our views, but if you need helping choosing which property wrapper is right for you I've made a tool to help. To find the right property wrapper for you, answer the questions below.
+
+#### [Nested Observable Objects in SwiftUI](https://rhonabwy.com/2021/02/13/nested-observable-objects-in-swiftui/)
+
+> At first blush, this looks fine – the view displays, and property within the nested view is shown as you’d expect; so what’s the problem? The issue is when you update that nested element’s property, even though it’s listed as @Published, the change doesn’t propagate to the view.
+
+#### [SwiftUI Custom Environment Values](https://useyourloaf.com/blog/swiftui-custom-environment-values/)
+
+> Here’s my quick guide to creating your own custom SwiftUI environment values for things like global app settings.
+
+#### [Mastering SwiftUI previews](https://swiftwithmajid.com/2021/03/10/mastering-swiftui-previews/)
+
+> SwiftUI previews allow you to look at your SwiftUI views inside Xcode without running the app in the simulator. You can also preview UIKit views and controllers by wrapping them in SwiftUI. Today we will learn about all the powerful features of previews in Xcode.
