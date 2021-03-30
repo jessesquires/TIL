@@ -190,3 +190,7 @@ Apps built fully (or mostly) with SwiftUI.
 #### [Mastering SwiftUI previews](https://swiftwithmajid.com/2021/03/10/mastering-swiftui-previews/)
 
 > SwiftUI previews allow you to look at your SwiftUI views inside Xcode without running the app in the simulator. You can also preview UIKit views and controllers by wrapping them in SwiftUI. Today we will learn about all the powerful features of previews in Xcode.
+
+#### [The @ScaledMetric Property Wrapper](https://useyourloaf.com/blog/the-scaledmetric-property-wrapper/)
+
+> How can you scale other metrics, like spacing, as the dynamic type content size changes? In iOS 14, SwiftUI gained the @ScaledMetric property wrapper that can scale any numeric value.
