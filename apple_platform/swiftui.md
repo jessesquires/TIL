@@ -105,7 +105,7 @@ Apps built fully (or mostly) with SwiftUI.
 
 > While this is great and can save us hundreds of hours, sometimes we want to make our UI declarations even more adaptive: in this article, let’s see how we can do so.
 
-## General How To
+## General "How To"
 
 #### [How to define SwiftUI properties](https://twitter.com/chriseidhof/status/1280433133813456896)
 
