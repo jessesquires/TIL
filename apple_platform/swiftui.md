@@ -23,12 +23,19 @@ Apps built fully (or mostly) with SwiftUI.
 - [The SwiftUI Lab](https://swiftui-lab.com)
 - [SwiftUI Weekly](http://weekly.swiftwithmajid.com)
 
-## API Changes + Known Issues
+## API Changes
 
 - [SwiftUI betas - what changed before 1.0](https://mackuba.eu/2020/08/17/swiftui-beta/)
+- [What’s new in SwiftUI for iOS 14](https://www.hackingwithswift.com/articles/221/whats-new-in-swiftui-for-ios-14)
+
+## Known Issues + Workarounds
+
 - [Apple Documentation and SwiftUI for Mac](https://mjtsai.com/blog/2021/02/26/apple-documentation-and-swiftui-for-mac/)
 - [The State of SwiftUI](https://mjtsai.com/blog/2020/09/18/the-state-of-swiftui/)
-- [What’s new in SwiftUI for iOS 14](https://www.hackingwithswift.com/articles/221/whats-new-in-swiftui-for-ios-14)
+- [Self-Sizing UITableView Cells with SwiftUI](https://noahgilmore.com/blog/swiftui-self-sizing-cells/)
+- [Fixing keyboardShortcut in SwiftUI](https://steipete.me/posts/fixing-keyboardshortcut-in-swiftui/)
+- [Supporting Both Tap and Long Press on a Button in SwiftUI](https://steipete.me/posts/supporting-both-tap-and-longpress-on-button-in-swiftui/)
+- [Disabling Keyboard Avoidance in SwiftUI's UIHostingController](https://steipete.me/posts/disabling-keyboard-avoidance-in-swiftui-uihostingcontroller/)
 - [Poor performance for macOS apps](https://mobile.twitter.com/steipete/status/1376540592205860865)
 
 ## Debugging
