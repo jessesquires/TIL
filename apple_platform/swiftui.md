@@ -81,11 +81,31 @@ Apps built fully (or mostly) with SwiftUI.
 
 > The easiest way to see how Core Data works with SwiftUI is by creating a new SwiftUI project and selecting the Use Core Data checkmark. Xcode will generate a working example that we can try out and review immediately.
 
-## How To
+## Project Setup
+
+#### [Setting up a multi-platform SwiftUI project](https://blog.scottlogic.com/2021/03/04/Multiplatform-SwiftUI.html)
+
+> This blog will take a look at a basic setup for a multi-platform SwiftUI app.
 
 #### [How SwiftUI can now be used to build entire iOS apps](https://wwdcbysundell.com/2020/building-entire-apps-with-swiftui/)
 
 > This year, however, entire apps can now be defined directly using SwiftUI, thanks to a few new additions to its API.
+
+## Layout
+
+#### [Impossible Grids with SwiftUI](https://swiftui-lab.com/impossible-grids/)
+
+> Native support for grids in SwiftUI is finally here. This is made possible by two new views. These are LazyVGrid and LazyHGrid.
+
+#### [Sharing layout information in SwiftUI](https://fivestars.blog/swiftui/swiftui-share-layout-information.html)
+
+> SwiftUI views layout depends on each view state. This state is composed of a mix of internal properties, external values coming from the environment, etc.
+
+#### [Adaptive SwiftUI views](https://fivestars.blog/swiftui/adaptive-swiftui-views.html)
+
+> While this is great and can save us hundreds of hours, sometimes we want to make our UI declarations even more adaptive: in this article, let’s see how we can do so.
+
+## General How To
 
 #### [How to define SwiftUI properties](https://twitter.com/chriseidhof/status/1280433133813456896)
 
@@ -103,10 +123,6 @@ Apps built fully (or mostly) with SwiftUI.
 
 > This week we will learn all about the new Toolbar API.
 
-#### [Setting up a multi-platform SwiftUI project](https://blog.scottlogic.com/2021/03/04/Multiplatform-SwiftUI.html)
-
-> This blog will take a look at a basic setup for a multi-platform SwiftUI app.
-
 #### [MatchedGeometryEffect | The SwiftUI Lab](https://swiftui-lab.com/matchedgeometryeffect-part1/)
 
 > We are talking about a new extension to the View protocol, the .matchedGeometryEffect() modifier. On its own, it’s good enough, but in combination with other techniques we learned already (custom transitions and animatable modifiers), it becomes even better. It is an essential skill to put in your SwiftUI toolkit.
@@ -118,14 +134,6 @@ Apps built fully (or mostly) with SwiftUI.
 #### [Creating custom `.redacted` effects](https://fivestars.blog/code/redacted-custom-effects.html)
 
 > With the recent release of Xcode 12 we’ve gained a new `.redacted(reason:)` SwiftUI modifier.
-
-#### [Impossible Grids with SwiftUI](https://swiftui-lab.com/impossible-grids/)
-
-> Native support for grids in SwiftUI is finally here. This is made possible by two new views. These are LazyVGrid and LazyHGrid.
-
-#### [Sharing layout information in SwiftUI](https://fivestars.blog/swiftui/swiftui-share-layout-information.html)
-
-> SwiftUI views layout depends on each view state. This state is composed of a mix of internal properties, external values coming from the environment, etc.
 
 #### [Label](https://fivestars.blog/swiftui/label.html)
 
@@ -150,10 +158,6 @@ Apps built fully (or mostly) with SwiftUI.
 #### [Handling loading states within SwiftUI views](https://www.swiftbysundell.com/articles/handling-loading-states-in-swiftui/)
 
 > One of the most important aspects of that kind of asynchronous work, at least when it comes to building UI-based apps, is figuring out how to reliably update our various views according to the current state of the background operations that we’ll perform. So this week, let’s take a look at a few different options on how to do just that when building views using SwiftUI.
-
-#### [Adaptive SwiftUI views](https://fivestars.blog/swiftui/adaptive-swiftui-views.html)
-
-> While this is great and can save us hundreds of hours, sometimes we want to make our UI declarations even more adaptive: in this article, let’s see how we can do so.
 
 #### [Attributed Strings with SwiftUI](https://swiftui-lab.com/attributed-strings-with-swiftui/)
 
