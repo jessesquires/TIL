@@ -19,9 +19,8 @@ Apps built fully (or mostly) with SwiftUI.
 ## Collections
 
 - [Discover SwiftUI on Swift by Sundell](https://www.swiftbysundell.com/discover/swiftui/)
-- [Swift with Majid](https://swiftwithmajid.com/archive/)
 - [The SwiftUI Lab](https://swiftui-lab.com)
-- [SwiftUI Weekly](http://weekly.swiftwithmajid.com)
+- [SwiftUI Weekly](http://weekly.swiftwithmajid.com), [Swift with Majid](https://swiftwithmajid.com/archive/)
 
 ## API Changes
 
@@ -42,6 +41,10 @@ Apps built fully (or mostly) with SwiftUI.
 - [The SwiftUI Experiment - Retrospective](https://kean.blog/post/swiftui-experiment#retrospective)
 
 ## Debugging
+
+#### [SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) library
+
+> Introspect underlying UIKit components from SwiftUI
 
 #### [Building SwiftUI debugging utilities](https://www.swiftbysundell.com/articles/building-swiftui-debugging-utilities/)
 
