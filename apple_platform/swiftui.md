@@ -54,6 +54,12 @@ Apps built fully (or mostly) with SwiftUI.
 
 > But what if we wanted to know more about that view? In this article, let’s explore how we can do so.
 
+#### [Random Color for SwiftUI](https://gist.github.com/steipete/579edd8bd8b25dc8a89b546b54d9222f)
+
+> Setting a random background color is a great way to detect an accidental SwiftUI loop. The tricky part is understanding what triggers the loop tho.
+> 
+> — [@steipete, Peter Steinberger](https://mobile.twitter.com/steipete/status/1379483193708052480)
+
 ## Behind the scenes: How SwiftUI works
 
 #### [How an Hstack Lays out Its Children](https://www.objc.io/blog/2020/11/09/hstacks-child-ordering/)
