@@ -205,3 +205,7 @@ Apps built fully (or mostly) with SwiftUI.
 #### [The @ScaledMetric Property Wrapper](https://useyourloaf.com/blog/the-scaledmetric-property-wrapper/)
 
 > How can you scale other metrics, like spacing, as the dynamic type content size changes? In iOS 14, SwiftUI gained the @ScaledMetric property wrapper that can scale any numeric value.
+
+## Related Tools
+
+#### [DetailsPro — A GUI for SwiftUI Design](https://detailspro.app/)
