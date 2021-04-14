@@ -1,6 +1,6 @@
 # Software Development (General)
 
-# Non-technical
+## Non-technical
 
 #### [Follow-Through](https://inessential.com/2019/08/29/follow_through)
 
@@ -9,6 +9,18 @@
 > One bang, and then back to work, in other words.
 >
 > But that’s not going to maximize your chances for a good release. You need to follow through — you need to keep going.
+
+#### [Getting Real](https://basecamp.com/gettingreal), by Basecamp
+
+> [Make Opinionated Software](https://basecamp.com/gettingreal/04.6-make-opinionated-software):
+>
+> Some people argue software should be agnostic. They say it’s arrogant for developers to limit features or ignore feature requests. They say software should always be as flexible as possible.
+>
+> We think that’s bullshit. The best software has a vision. The best software takes sides. When someone uses software, they’re not just looking for features, they’re looking for an approach. They’re looking for a vision. Decide what your vision is and run with it. 
+
+> [Build half a product, not a half-ass product](https://basecamp.com/gettingreal/05.1-half-not-half-assed):
+> 
+> Beware of the “everything but the kitchen sink” approach to web app development. Throw in every decent idea that comes along and you’ll just wind up with a half-assed version of your product. What you really want to do is build half a product that kicks ass.
 
 ## Design
 
