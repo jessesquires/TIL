@@ -60,6 +60,10 @@ Apps built fully (or mostly) with SwiftUI.
 > 
 > — [@steipete, Peter Steinberger](https://mobile.twitter.com/steipete/status/1379483193708052480)
 
+See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blog/2021/04/08/watchsmith-2-dev-notes/):
+
+> A little trick I found super useful was to set the border of each of the various views involved to a random color and then it see what borders change whenever the view rebuilds. This helped me countless times to determine where in the view tree the problem was.
+
 ## Behind the scenes: How SwiftUI works
 
 #### [How an Hstack Lays out Its Children](https://www.objc.io/blog/2020/11/09/hstacks-child-ordering/)
