@@ -38,6 +38,10 @@ Apps built fully (or mostly) with SwiftUI.
 - [Poor performance for macOS apps](https://mobile.twitter.com/steipete/status/1376540592205860865)
 - [Keyboard Navigation in SwiftUI](https://pspdfkit.com/blog/2021/keyboard-navigation-in-swiftui/)
 - [iOS 14 `.onAppear()` is called on **DISappear** instead of appear](https://developer.apple.com/forums/thread/655338)
+
+## Retrospectives
+
+- [SwiftUI In Production](https://pspdfkit.com/blog/2021/swiftui-in-production/)
 - [The SwiftUI Experiment - Retrospective](https://kean.blog/post/swiftui-experiment#retrospective)
 
 ## Debugging
