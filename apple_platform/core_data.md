@@ -21,3 +21,11 @@
 #### [How to Set Up Core Data and CloudKit](https://beckyhansmeyer.com/2021/03/30/how-to-set-up-core-data-cloudkit-and-swiftui-when-you-havent-the-faintest-clue-what-youre-doing/)
 
 > When Apple introduced changes to Core Data + CloudKit integration in 2019, they sold developers on a dead-simple API: add iCloud sync to your Core Data app with “as little as one line of code.” That one line, of course, is simply changing `NSPersistentContainer` to `NSPersistentCloudKitContainer` and enabling a few capabilities in the project settings. Boom, done! And in fact, Apple’s “Core Data –> Host in CloudKit” SwiftUI project template does those things for you, so you’re good to go, right?
+
+#### [Changing The Core Data Test Store Location](https://useyourloaf.com/blog/changing-the-core-data-test-store-location/)
+
+> When unit testing with Core Data I like using an in-memory store for speed and ease of clean up. But I also want, at least some of the time, to test with a disk-based store. Changing the location of the test database avoids overwriting or conflicting with any application database that I might already have installed on the simulator or device.
+
+#### [Debugging Core Data](https://useyourloaf.com/blog/debugging-core-data/)
+
+> Apple recommends adding some launch arguments and environment variables to your Xcode schemes to catch and debug Core Data problems. I’ve known about some of these for a long time others were new to me.
