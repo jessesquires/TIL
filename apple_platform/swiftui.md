@@ -92,6 +92,12 @@ See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blo
 
 ## Working with Core Data
 
+#### [Core Data and SwiftUI](https://davedelong.com/blog/2021/04/03/core-data-and-swiftui/)
+
+> This is a large part of why I suggest creating an abstraction layer for Core Data. An abstraction layer allows me to hide the nitty gritty details of data mutation and persistence from the parts of the app that deal with displaying that data in the UI.
+>
+> An initial approach might suggest that creating a Core Data abstraction layer requires foregoing all the nice affordances we have for quickly and expressively extracting information from the persistent store. Not so! The setup we’ll be going over allows me to have the abstraction layer while still using cool things (like property wrappers) for retrieving data.
+
 #### [Fetching objects from Core Data in a SwiftUI project](https://www.donnywals.com/fetching-objects-from-core-data-in-a-swiftui-project/)
 
 > When you've added Core Data to your SwiftUI project and you have some data stored in your database, the next hurdle is to somehow fetch that data from your Core Data store and present it to the user.
