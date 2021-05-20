@@ -18,7 +18,7 @@ See also: [Apple Platform Development](../apple_platform)
 - [Apple Marketing Guidelines, Product Images, etc.](https://developer.apple.com/app-store/marketing/guidelines/)
 - [App Screenshot Specs](https://help.apple.com/app-store-connect/#/devd274dd925)
 - [App Preview Specs](https://help.apple.com/app-store-connect/#/dev4e413fcb8)
-- [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
+- [ScreenSizes.app](https://www.screensizes.app)
 - [The Wisdom of Quinn: Informative DevForum posts from everyone's favorite DTS member](https://gist.github.com/macshome/0753d3fdf711cfe699533fe5059e50e2)
 
 ## Contents
