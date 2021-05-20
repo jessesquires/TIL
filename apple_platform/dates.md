@@ -24,3 +24,7 @@
 > Going back to how `Date` works, it doesn’t model the actual clock time but rather a fixed point in time that can be interpreted in any time zone. And so what’s happening here is that the data is being interpreted as if it happened in my current time zone, which is the default time zone that `Calendar` and `DateFormatter` use.
 >
 > And as such, a `Date` alone isn’t sufficient for modelling historical data, or at least personal historical data: You need time zone information too.
+
+#### [Parsing Dates Without Times](https://mjtsai.com/blog/2021/05/18/parsing-dates-without-times/)
+
+> Parsing fixed-format date strings is tricky. For an explanation as to why, see QA1480 NSDateFormatter and Internet Dates. However, there’s an extra gotcha when you try to parse fixed-format date strings that don’t include a time.
