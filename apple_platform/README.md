@@ -4,6 +4,8 @@
 
 See also: [iOS](../ios) and [macOS](../macos)
 
+Find [Xcode Tips here](https://xcode-tips.github.io).
+
 ## Contents
 
 - [Core Data](./core_data.md)
