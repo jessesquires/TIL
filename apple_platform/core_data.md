@@ -29,3 +29,15 @@
 #### [Debugging Core Data](https://useyourloaf.com/blog/debugging-core-data/)
 
 > Apple recommends adding some launch arguments and environment variables to your Xcode schemes to catch and debug Core Data problems. I’ve known about some of these for a long time others were new to me.
+
+#### [Core Data In Memory Store](https://useyourloaf.com/blog/core-data-in-memory-store/)
+
+> The old way of creating an in-memory store was to change the store type in the persistent store descriptor before loading the store. The default is `NSSQLiteStoreType` but we can switch to `NSInMemoryStoreType`:
+> 
+> `storeDescription.type = NSInMemoryStoreType`
+>
+> There’s nothing I can find in the documentation but Apple showed a different way during WWDC 2018:
+> 
+> `storeDescription.url = URL(fileURLWithPath: "/dev/null")`
+>
+> This still uses an SQLite store but we keep it in memory instead of writing it to disk. As well as being faster this also gives us a clean store each time.
