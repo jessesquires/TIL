@@ -90,6 +90,14 @@ See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blo
 >
 > In this article, I will discuss why this change was introduced, and how you can make use of the new life cycle in new or existing apps.
 
+#### [SwiftUI List Bindings: Behind the Scenes](https://peterfriese.dev/swiftui-list-item-bindings-behind-the-scenes/)
+
+> As of WWDC 2021, SwiftUI supports bindings for list elements.
+>
+> [...]
+>
+> But how does it work?
+
 ## Working with Core Data
 
 #### [Core Data and SwiftUI](https://davedelong.com/blog/2021/04/03/core-data-and-swiftui/)
