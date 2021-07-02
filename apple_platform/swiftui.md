@@ -2,6 +2,8 @@
 
 You can find the [official documentation here](https://developer.apple.com/documentation/swiftui).
 
+Also see [Fucking SwiftUI](https://fuckingswiftui.com) (or [Gosh Darn SwiftUI](https://goshdarnswiftui.com)) for a nice "cheat sheet" and a [breakdown of UIKit equivalent APIs](https://fuckingswiftui.com/#uikit-equivalent-in-swiftui).
+
 ## Example Apps
 
 Apps built fully (or mostly) with SwiftUI.
