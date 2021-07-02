@@ -72,7 +72,7 @@ See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blo
 
 ## Behind the scenes: How SwiftUI works
 
-#### [How an Hstack Lays out Its Children](https://www.objc.io/blog/2020/11/09/hstacks-child-ordering/)
+#### [How an Hstack Lays out Its Children](https://www.objc.io/blog/2020/11/10/hstacks-child-ordering/)
 
 > For the most part SwiftUI’s layout system is intuitive to use, letting you achieve what you want with a little bit of experimentation. However, sometimes you encounter behaviors that are hard to reason about without a deeper understanding of the underlying implementation.
 
