@@ -9,6 +9,7 @@
     - [macOS](./macos)
     - [Swift](./swift)
     - [Xcode](./xcode)
+    - [WWDC](https://jessesquires.github.io/wwdc-notes/)
 
 ### Languages
 
