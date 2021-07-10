@@ -17,6 +17,7 @@ Apps built fully (or mostly) with SwiftUI.
 - [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
 - [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI)
 - [MemeMaker](https://github.com/dempseyatgithub/MemeMaker)
+- [Pulse](https://github.com/kean/Pulse)
 
 ## Guided Tutorials
 
