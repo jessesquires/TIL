@@ -19,9 +19,10 @@ Apps built fully (or mostly) with SwiftUI.
 - [MemeMaker](https://github.com/dempseyatgithub/MemeMaker)
 - [Pulse](https://github.com/kean/Pulse)
 
-## Guided Tutorials
+## Tutorials
 
 - [Apple: iOS App Dev with SwiftUI Tutorials](https://developer.apple.com/tutorials/app-dev-training/#swiftui-essentials)
+- [SwiftUI Examples for macOS](https://gavinw.me/swift-macos/), Gavin Wiggins
 
 ## Collections
 
