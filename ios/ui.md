@@ -28,10 +28,6 @@ On autolayout, adaptive table cells, and using UIStackView (or not!)
 
 > In this article, we’re going to cover basically everything you need to know to design an iPhone app following standard iOS 13 conventions and style.
 
-#### [SF Symbols Changes in iOS 14.2](https://hacknicity.medium.com/sf-symbols-changes-in-ios-14-2-8a8bdf708426)
-
-> There are now three different sets of symbols to consider...
-
 #### [Tweaking The iOS System Fonts](https://useyourloaf.com/blog/tweaking-the-ios-system-fonts/)
 
 > Before you switch to a custom font don’t overlook how much you can tweak the appearance of the system fonts. A quick review of some font APIs that work for both UIKit and SwiftUI.
@@ -39,3 +35,13 @@ On autolayout, adaptive table cells, and using UIStackView (or not!)
 #### [Discoverable Key Commands](https://indiestack.com/2021/03/discoverable-key-commands/)
 
 > One standard behavior of iPadOS is that when an app supports keyboard shortcuts, simply holding down the command key presents a nice heads-up display (HUD) with the list of shortcuts. For example, if you press the command key on the iPad home screen, you’ll see something like this...
+
+## SF Symbols
+
+#### [SF Symbols Changes in iOS 14.2](https://hacknicity.medium.com/sf-symbols-changes-in-ios-14-2-8a8bdf708426)
+
+> There are now three different sets of symbols to consider...
+
+#### [SF Symbol Changes in iOS 15](https://hacknicity.medium.com/sf-symbol-changes-in-ios-15-fa40a332de3b)
+
+> Apple announced SF Symbols 3. There are approximately 600 new symbols, multicolor symbols now work correctly in UIKit, and there are two new rendering modes with enhanced color customisation: hierarchical and palette.
