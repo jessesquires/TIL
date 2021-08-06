@@ -24,6 +24,16 @@ Apps built fully (or mostly) with SwiftUI.
 - [Apple: iOS App Dev with SwiftUI Tutorials](https://developer.apple.com/tutorials/app-dev-training/#swiftui-essentials)
 - [SwiftUI Examples for macOS](https://gavinw.me/swift-macos/), Gavin Wiggins
 
+## Tools
+
+#### [A Companion for SwiftUI](https://swiftui-lab.com/companion/)
+
+> An app that documents all the SwiftUI views, shapes, protocols, scenes, property wrappers, styles and environment values found in all platforms (iOS, macOS, tvOS, watchOS).
+
+#### [DetailsPro](https://detailspro.app/)
+
+> A GUI for SwiftUI Design.
+
 ## Collections
 
 - [Discover SwiftUI on Swift by Sundell](https://www.swiftbysundell.com/discover/swiftui/)
@@ -235,7 +245,3 @@ See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blo
 #### [The @ScaledMetric Property Wrapper](https://useyourloaf.com/blog/the-scaledmetric-property-wrapper/)
 
 > How can you scale other metrics, like spacing, as the dynamic type content size changes? In iOS 14, SwiftUI gained the @ScaledMetric property wrapper that can scale any numeric value.
-
-## Related Tools
-
-#### [DetailsPro — A GUI for SwiftUI Design](https://detailspro.app/)
