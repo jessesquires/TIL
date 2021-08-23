@@ -245,3 +245,7 @@ See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blo
 #### [The @ScaledMetric Property Wrapper](https://useyourloaf.com/blog/the-scaledmetric-property-wrapper/)
 
 > How can you scale other metrics, like spacing, as the dynamic type content size changes? In iOS 14, SwiftUI gained the @ScaledMetric property wrapper that can scale any numeric value.
+
+#### [Implementing Three Column Navigation in SwiftUI](https://serialcoder.dev/text-tutorials/swiftui/implementing-three-column-navigation-in-swiftui/)
+
+> In UIKit and AppKit, a UISplitViewController and a NSSplitViewController would be the necessary classes for building that functionality. In SwiftUI things are different though; a NavigationView with a couple of List views do the job in a much simpler fashion. The only requirement is to follow certain steps in the proper order.
