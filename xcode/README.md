@@ -1,5 +1,7 @@
 # Xcode
 
+- [Minimum requirements and supported SDKs](https://developer.apple.com/support/xcode/)
+
 ## Tips and Tricks
 
 Find a list of [useful tips here](https://xcode-tips.github.io).
