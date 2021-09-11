@@ -61,6 +61,10 @@ Apps built fully (or mostly) with SwiftUI.
 >
 > &mdash; [@stroughtonsmith](https://twitter.com/stroughtonsmith/status/1430746752039231496)
 
+#### [Why Conditional View Modifiers are a Bad Idea](https://www.objc.io/blog/2021/08/24/conditional-view-modifiers/)
+
+> There are many blog posts out there with similar modifiers. I think all these blog posts should come with a huge warning sign. Why is the above code problematic? Let's look at a sample.
+
 ## Retrospectives
 
 - [SwiftUI In Production](https://pspdfkit.com/blog/2021/swiftui-in-production/)
@@ -253,3 +257,8 @@ See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blo
 #### [Implementing Three Column Navigation in SwiftUI](https://serialcoder.dev/text-tutorials/swiftui/implementing-three-column-navigation-in-swiftui/)
 
 > In UIKit and AppKit, a UISplitViewController and a NSSplitViewController would be the necessary classes for building that functionality. In SwiftUI things are different though; a NavigationView with a couple of List views do the job in a much simpler fashion. The only requirement is to follow certain steps in the proper order.
+
+#### [Every SwiftUI Environment Value explained](https://www.fivestars.blog/articles/swiftui-environment-values/)
+
+> ...in this article, let's review all environment values that SwiftUI offers.
+
