@@ -56,6 +56,10 @@ Apps built fully (or mostly) with SwiftUI.
 - [Poor performance for macOS apps](https://mobile.twitter.com/steipete/status/1376540592205860865)
 - [Keyboard Navigation in SwiftUI](https://pspdfkit.com/blog/2021/keyboard-navigation-in-swiftui/)
 - [iOS 14 `.onAppear()` is called on **DISappear** instead of appear](https://developer.apple.com/forums/thread/655338)
+- SwiftUI seems to be breaking across OS releases on all platforms.
+> SwiftUI metrics & padding changes in macOS 12 are… ‘a problem’. I’m seeing all kinds of wrong behavior across my apps, compared to macOS 11. Fixing for one will break the other, which would mean a lot of nasty if statements. I hear iOS 15 has similar issues.
+>
+> &mdash; [@stroughtonsmith](https://twitter.com/stroughtonsmith/status/1430746752039231496)
 
 ## Retrospectives
 
