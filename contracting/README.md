@@ -2,18 +2,27 @@
 
 *Tools and resources for indie dev contracting and freelance work*
 
-### Tools for freelancers
+## Tools for freelancers
 
 - [Must-have tools and apps](https://webflow.com/blog/21-must-have-tools-and-apps-for-freelance-designers)
-- [Timing app](https://timingapp.com)
 - [Matomo (formerly Piwik) Analytics](https://piwik.org)
 
-### Advice
+### Bookkeeping
+
+- [Quickbooks](http://www.quickbooks.com)
+- [Accounting Software – Do Beautiful Business | Xero US](https://www.xero.com/us/)
+
+### Time-tracking
+
+- [Nokosoft](https://nokotime.com)
+- [TimingApp](https://timingapp.com)
+
+## Advice
 
 - [On using NDAs](http://www.allenpike.com/2016/disclosure-indicator)
 - [On getting paid](http://www.allenpike.com/2016/getting-paid-receivables)
 
-### Email Templates
+## Email Templates
 
 Useful for invoices.
 
