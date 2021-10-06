@@ -65,10 +65,11 @@ Apps built fully (or mostly) with SwiftUI.
 
 > There are many blog posts out there with similar modifiers. I think all these blog posts should come with a huge warning sign. Why is the above code problematic? Let's look at a sample.
 
-## Retrospectives
+## Retrospectives + Lessons Learned
 
 - [SwiftUI In Production](https://pspdfkit.com/blog/2021/swiftui-in-production/)
 - [The SwiftUI Experiment - Retrospective](https://kean.blog/post/swiftui-experiment#retrospective)
+- [SwiftUI Animation Lessons From Building “Time’s Up! Timer”](https://blog.overdesigned.net/posts/2021-09-29-swiftui-animation-tricks/)
 
 ## Debugging
 
