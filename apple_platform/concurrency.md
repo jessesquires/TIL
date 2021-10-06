@@ -57,3 +57,11 @@ Queues with `.background` Quality of Service (QoS) may *never* be executed, e.g.
 #### [Benefits of NetNewsWire’s Threading Model](https://inessential.com/2021/03/21/benefits_of_netnewswires_threading_model)
 
 > In my previous post I describe how NetNewsWire handles threading, and I touch on some of the benefits — but I want to be more explicit about them.
+
+#### [The difference between `Thread.sleep()` and `Task.sleep()`](https://trycombine.com/posts/thread-task-sleep/)
+
+> So here’s a quick and simple example that showcases some of the nice features of the new concurrency model without going into much detail.
+
+#### [What is structured concurrency?](https://oleb.net/2021/structured-concurrency/)
+
+> Structured concurrency is a new term for most Swift developers. This is an attempt to decipher its meaning.
