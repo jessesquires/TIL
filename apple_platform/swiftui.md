@@ -155,6 +155,10 @@ See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blo
 
 > The easiest way to see how Core Data works with SwiftUI is by creating a new SwiftUI project and selecting the Use Core Data checkmark. Xcode will generate a working example that we can try out and review immediately.
 
+#### [Configuring SwiftUI Fetch Requests](https://useyourloaf.com/blog/configuring-swiftui-fetch-requests/)
+
+> In iOS 15, it’s easier to dynamically configure a Core Data fetch request for use with SwiftUI.
+
 ## Project Setup
 
 #### [Setting up a multi-platform SwiftUI project](https://blog.scottlogic.com/2021/03/04/Multiplatform-SwiftUI.html)
