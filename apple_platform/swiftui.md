@@ -56,14 +56,28 @@ Apps built fully (or mostly) with SwiftUI.
 - [Poor performance for macOS apps](https://mobile.twitter.com/steipete/status/1376540592205860865)
 - [Keyboard Navigation in SwiftUI](https://pspdfkit.com/blog/2021/keyboard-navigation-in-swiftui/)
 - [iOS 14 `.onAppear()` is called on **DISappear** instead of appear](https://developer.apple.com/forums/thread/655338)
-- SwiftUI seems to be breaking across OS releases on all platforms.
-> SwiftUI metrics & padding changes in macOS 12 are… ‘a problem’. I’m seeing all kinds of wrong behavior across my apps, compared to macOS 11. Fixing for one will break the other, which would mean a lot of nasty if statements. I hear iOS 15 has similar issues.
->
-> &mdash; [@stroughtonsmith](https://twitter.com/stroughtonsmith/status/1430746752039231496)
 
 #### [Why Conditional View Modifiers are a Bad Idea](https://www.objc.io/blog/2021/08/24/conditional-view-modifiers/)
 
 > There are many blog posts out there with similar modifiers. I think all these blog posts should come with a huge warning sign. Why is the above code problematic? Let's look at a sample.
+
+#### SwiftUI seems to be breaking across OS releases on all platforms
+
+See Michael Tsai's post on [iOS 15 Shortcuts and SwiftUI](https://mjtsai.com/blog/2021/10/01/ios-15-shortcuts-and-swiftui/).
+
+> SwiftUI metrics & padding changes in macOS 12 are… ‘a problem’. I’m seeing all kinds of wrong behavior across my apps, compared to macOS 11. Fixing for one will break the other, which would mean a lot of nasty if statements. I hear iOS 15 has similar issues.
+>
+> &mdash; [@stroughtonsmith](https://twitter.com/stroughtonsmith/status/1430746752039231496)
+
+> Growing increasingly concerned about this critical SwiftUI Button bug that breaks trackpad/click focus on iPadOS 15 + macOS Monterey.
+> [...]
+> Oh wow, this bug is actually present in the Shortcuts app too (created in SwiftUI w/ iOS 15?)
+>
+> &mdash; [@michael_tigas](https://mobile.twitter.com/michael_tigas/status/1435549427691769867)
+
+> We’re in ‘year 3’ of SwiftUI, and my base advice remains unchanged — it is great for auxiliary non-critical UI layouts (inspector sidebars, settings windows, and panels), watchOS apps, and rapid prototyping. Beyond that, it just does not meet the bar for complex, reliable apps
+>
+> &mdash; [@stroughtonsmith](https://twitter.com/stroughtonsmith/status/1443692971187130373)
 
 ## Retrospectives + Lessons Learned
 
