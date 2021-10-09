@@ -16,10 +16,14 @@ See also: [Apple Platform Development](../apple_platform)
 
 - [Apple Design Resources](https://developer.apple.com/design/resources/)
 - [Apple Marketing Guidelines, Product Images, etc.](https://developer.apple.com/app-store/marketing/guidelines/)
+- [The Wisdom of Quinn: Informative DevForum posts from everyone's favorite DTS member](https://gist.github.com/macshome/0753d3fdf711cfe699533fe5059e50e2)
+
+## Screen Sizes
+
 - [App Screenshot Specs](https://help.apple.com/app-store-connect/#/devd274dd925)
 - [App Preview Specs](https://help.apple.com/app-store-connect/#/dev4e413fcb8)
 - [ScreenSizes.app](https://www.screensizes.app)
-- [The Wisdom of Quinn: Informative DevForum posts from everyone's favorite DTS member](https://gist.github.com/macshome/0753d3fdf711cfe699533fe5059e50e2)
+- [iPhone 13 Screen Sizes](https://useyourloaf.com/blog/iphone-13-screen-sizes/)
 
 ## Contents
 
