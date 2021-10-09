@@ -36,6 +36,14 @@ On autolayout, adaptive table cells, and using UIStackView (or not!)
 
 > One standard behavior of iPadOS is that when an app supports keyboard shortcuts, simply holding down the command key presents a nice heads-up display (HUD) with the list of shortcuts. For example, if you press the command key on the iPad home screen, you’ll see something like this...
 
+#### [Stack View Changes In iOS 15](https://useyourloaf.com/blog/stack-view-changes-in-ios-15/)
+
+> Apple didn’t add any new features to stack views in iOS 15 but they have made a subtle change to the implementation that might catch you out when deploying back to earlier iOS versions.
+
+#### [Button Configuration in iOS 15](https://useyourloaf.com/blog/button-configuration-in-ios-15/)
+
+> Apple gave buttons a big upgrade in iOS 15. You now create and update button configurations much like the changes Apple introduced for collection and table view cells in iOS 14.
+
 ## SF Symbols
 
 #### [SF Symbols Changes in iOS 14.2](https://hacknicity.medium.com/sf-symbols-changes-in-ios-14-2-8a8bdf708426)
