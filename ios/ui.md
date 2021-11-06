@@ -8,10 +8,6 @@
 
 > Today I want to talk about UIView styling. The common approach when we want to customize the display of native UI controls (for instance UIButton or UILabel) is to create a subclass that overrides a bunch of properties. That works well most of the time, but some problems may arise.
 
-#### [Two Takes on Adaptive Cell Layout](https://blog.alltheflow.com/two-takes-on-adaptive-cell-layout/)
-
-On autolayout, adaptive table cells, and using UIStackView (or not!)
-
 #### [Popovers, UINavigationController, and preferredContentSize](https://noahgilmore.com/blog/popover-uinavigationcontroller-preferredcontentsize/)
 
 > In this post we'll look at a very specific but tricky interaction in UIKit, one which took me multiple days to work out how to implement.
@@ -19,10 +15,6 @@ On autolayout, adaptive table cells, and using UIStackView (or not!)
 #### [Modality changes in iOS 13](https://sarunw.com/posts/modality-changes-in-ios13)
 
 > One behavior that changed and might break your old app once you starting adopting new iOS 13 is the modal presentation.
-
-#### [The Auto Layout Comprehendium™](http://mischa-hildebrand.de/en/2017/11/the-auto-layout-comprehendium/)
-
-> The Auto Layout Comprehendium™ is intended as a compendium for you to look up certain topics and to fully understand the internal mechanics behind the technology. While following an intuitive approach, it will help you master Auto Layout at a deeper level and empower you to build adaptable layouts without conflicts or ambiguities.
 
 #### [The iOS 13 Design Guidelines: An Illustrated Guide](https://learnui.design/blog/ios-design-guidelines-templates.html)
 
