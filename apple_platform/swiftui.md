@@ -57,6 +57,13 @@ Apps built fully (or mostly) with SwiftUI.
 - [Keyboard Navigation in SwiftUI](https://pspdfkit.com/blog/2021/keyboard-navigation-in-swiftui/)
 - [iOS 14 `.onAppear()` is called on **DISappear** instead of appear](https://developer.apple.com/forums/thread/655338)
 
+#### Dismissing the keyboard
+
+Unfortunately, [`.keyboardDismissMode`](https://developer.apple.com/documentation/uikit/uiscrollview/1619437-keyboarddismissmode) is not available in SwiftUI, so hacks are required:
+
+- [How to dismiss the keyboard for a TextField](https://www.hackingwithswift.com/quick-start/swiftui/how-to-dismiss-the-keyboard-for-a-textfield)
+- [Dismissing The Keyboard In SwiftUI 2.0](https://www.dabblingbadger.com/blog/2020/11/5/dismissing-the-keyboard-in-swiftui)
+
 #### [Why Conditional View Modifiers are a Bad Idea](https://www.objc.io/blog/2021/08/24/conditional-view-modifiers/)
 
 > There are many blog posts out there with similar modifiers. I think all these blog posts should come with a huge warning sign. Why is the above code problematic? Let's look at a sample.
