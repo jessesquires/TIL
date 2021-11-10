@@ -10,7 +10,7 @@
 ### Bookkeeping
 
 - [Quickbooks](http://www.quickbooks.com)
-- [Accounting Software – Do Beautiful Business | Xero US](https://www.xero.com/us/)
+- [Accounting Software – Do Beautiful Business, Xero US](https://www.xero.com/us/)
 
 ### Time-tracking
 
