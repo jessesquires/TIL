@@ -24,7 +24,7 @@ Apps built fully (or mostly) with SwiftUI.
 - [Apple: iOS App Dev with SwiftUI Tutorials](https://developer.apple.com/tutorials/app-dev-training/#swiftui-essentials)
 - [SwiftUI Examples for macOS](https://gavinw.me/swift-macos/), Gavin Wiggins
 
-## Tools
+## Tools + Tips
 
 #### [A Companion for SwiftUI](https://swiftui-lab.com/companion/)
 
@@ -33,6 +33,10 @@ Apps built fully (or mostly) with SwiftUI.
 #### [DetailsPro](https://detailspro.app/)
 
 > A GUI for SwiftUI Design.
+
+#### [Debug with `Self._printChanges()`](https://twitter.com/ishabazz/status/1470763298165387264)
+
+`Self._printChanges()` prints the properties that changed which caused a SwiftUI View to recompute its body property.
 
 ## Collections
 
