@@ -34,9 +34,11 @@ Apps built fully (or mostly) with SwiftUI.
 
 > A GUI for SwiftUI Design.
 
-#### [Debug with `Self._printChanges()`](https://twitter.com/ishabazz/status/1470763298165387264)
+#### [How to Find Why a SwiftUI View Is Updating](https://mjtsai.com/blog/2021/12/21/how-to-find-why-a-swiftui-view-is-updating/)
 
-`Self._printChanges()` prints the properties that changed which caused a SwiftUI View to recompute its body property.
+> SwiftUI has a new, pretty cool, debugging utility to help you understand what is causing a view to be reevaluated.
+>
+> Call `Self._printChanges()` inside the body of a view to print out the changes that have triggered the view update.
 
 ## Collections
 
