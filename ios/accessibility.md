@@ -16,3 +16,7 @@ See also: [Accessibility Smart Invert](https://useyourloaf.com/blog/accessibilit
 > This can help you identify areas where you depend only on COLOR to communicate. 🎨 Color is great; however color alone shouldn’t convey important info!
 >
 > via [@sommer](https://mobile.twitter.com/Sommer/status/1357063898529103874)
+
+#### [Getting Started With Accessibility](https://www.basbroek.nl/getting-started-voiceover)
+
+> More specifically, what I want to look at is not “what APIs are there to help make an app accessible?”, but rather “how do I use the available APIs to make my app accessible as best as possible?”.
