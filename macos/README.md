@@ -8,7 +8,7 @@ See also: [Apple Platform Development](../apple_platform)
 
 - [AppKit + UI](./appkit_ui.md)
 - [Distribution](./distribution.md)
-- [Tutorials.md](./tutorials.md)
+- [Tutorials](./tutorials.md)
 
 ## Sandboxing, Notarization, Hardened Runtime, SIP
 
