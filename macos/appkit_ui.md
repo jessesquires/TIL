@@ -1,4 +1,4 @@
-# AppKit / UI
+# AppKit + macOS UI
 
 #### [Resources for learning Objective-C and AppKit](https://lapcatsoftware.com/articles/learning.html), Jeff Johnson
 

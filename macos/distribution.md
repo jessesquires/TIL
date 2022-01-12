@@ -1,4 +1,4 @@
-# Distribution
+# Mac App Distribution
 
 #### [Distributing Mac apps outside the App Store, a quick start guide](https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store), Guilherme Rambo
 
