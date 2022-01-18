@@ -4,6 +4,24 @@
 
 See also: [Apple Platform Development](../apple_platform)
 
+## Contents
+
+- [APIs + Design](./apis_design.md)
+- [App launch and startup times](./app_launch.md)
+- [Autolayout](./autolayout.md)
+- [Debugging](./debugging.md)
+- [Devices and Resolutions](./devices_resolutions.md)
+- [Performance](./performance.md)
+- [Push Notifications](./push_notifications.md)
+- [Simulator](./simulator.md)
+- [Subscriptions](./subscriptions.md)
+- [Testing](./testing.md)
+- [Threads, Queues, GCD](./threads_and_queues.md)
+- [UI](./ui.md)
+- [Universal Links](./universal_links.md)
+
+----
+
 ## General resources
 
 - [iOS Dev Weekly](http://iosdevweekly.com)
@@ -24,19 +42,3 @@ See also: [Apple Platform Development](../apple_platform)
 - [App Preview Specs](https://help.apple.com/app-store-connect/#/dev4e413fcb8)
 - [ScreenSizes.app](https://www.screensizes.app)
 - [iPhone 13 Screen Sizes](https://useyourloaf.com/blog/iphone-13-screen-sizes/)
-
-## Contents
-
-- [APIs + Design](./apis_design.md)
-- [App launch and startup times](./app_launch.md)
-- [Autolayout](./autolayout.md)
-- [Debugging](./debugging.md)
-- [Devices and Resolutions](./devices_resolutions.md)
-- [Performance](./performance.md)
-- [Push Notifications](./push_notifications.md)
-- [Simulator](./simulator.md)
-- [Subscriptions](./subscriptions.md)
-- [Testing](./testing.md)
-- [Threads, Queues, GCD](./threads_and_queues.md)
-- [UI](./ui.md)
-- [Universal Links](./universal_links.md)
