@@ -297,3 +297,7 @@ See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blo
 #### [How to add a clear button to a TextField](https://sanzaru84.medium.com/swiftui-how-to-add-a-clear-button-to-a-textfield-9323c48ba61c)
 
 > The TextField element of the SwiftUI framework does not have such a feature built-in, so you’d have to build your own solution for that. In this article I want to show how to accomplish a simple clear button inside a SwiftUI TextField element.
+
+#### [How to render text with a color gradient in SwiftUI](https://sarunw.com/posts/how-to-render-text-with-color-gradient-in-swiftui/)
+
+> This article will explore how to render text with color gradients.
