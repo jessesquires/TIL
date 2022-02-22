@@ -19,6 +19,7 @@ See also: [iOS](../ios) and [macOS](../macos)
 
 ## Links
 
-- [Xcode Tips](https://xcode-tips.github.io)
+- [Community Xcode Tips](https://xcode-tips.github.io)
+- [Xcode.tips](https://xcode.tips)
 - [Technotes | Apple Developer](https://developer.apple.com/documentation/Technotes): Learn about specific development topics through these in-depth technical articles
 - [Catalyst Sample Code Roundup](https://www.highcaffeinecontent.com/blog/20210605-Catalyst-Sample-Code-Roundup)
