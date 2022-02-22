@@ -1,5 +1,9 @@
 # iOS UI, UIKit, Auto Layout, etc.
 
+#### [UIKit Catalog: Creating and Customizing Views and Controls](https://developer.apple.com/documentation/uikit/views_and_controls/uikit_catalog_creating_and_customizing_views_and_controls)
+
+> This sample guides you through several types of customizations you can make in your iOS app. It is built with Mac Catalyst, which means the sample runs on both iOS and macOS.
+
 #### [Variable Width Strings](https://useyourloaf.com/blog/variable-width-strings/)
 
 > Wouldn’t it be useful if you could automatically change the text based on the available space? There’s a little-known feature of the localization system that does precisely that.
