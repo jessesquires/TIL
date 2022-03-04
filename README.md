@@ -7,6 +7,7 @@
 - [Apple Platform Development](./apple_platform)
     - [iOS](./ios)
     - [macOS](./macos)
+    - [watchOS](./watchos)
     - [Swift](./swift)
     - [Xcode](./xcode)
     - [WWDC](https://jessesquires.github.io/wwdc-notes/)
