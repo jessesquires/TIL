@@ -22,6 +22,8 @@ Find a list of [useful tips here](https://xcode-tips.github.io).
 
 - [New Build System Tricks](https://gist.github.com/ddunbar/2dda0e836c855ea96759d1d05f086d69), by Daniel Dunbar
 
+- [Working with Xcode configuration files](https://tanaschita.com/20220221-xcode-configuration-files/): Learn how to manage different iOS build environments with `.xcconfig` files
+
 ## Automatically setting Xcode project build numbers
 
 - [Automated Xcode version and build numbering via Git](https://mokacoding.com/blog/automatic-xcode-versioning-with-git/)
