@@ -41,3 +41,7 @@
 > `storeDescription.url = URL(fileURLWithPath: "/dev/null")`
 >
 > This still uses an SQLite store but we keep it in memory instead of writing it to disk. As well as being faster this also gives us a clean store each time.
+
+#### [Async Core Data Testing](https://useyourloaf.com/blog/async-core-data-testing/)
+
+> Testing Core Data has some challenges. Using an in-memory store helps but what if the operation you want to test happens asynchronously? One approach is to have the test listen for the notification Core Data sends when it saves changes.
