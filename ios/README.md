@@ -23,6 +23,12 @@ See also: [Apple Platform Development](../apple_platform)
 
 ----
 
+# Other
+
+## Tips
+
+- [30 tips to make you a better iOS developer](https://www.fadel.io/blog/posts/30-tips-to-make-you-a-better-ios-developer/)
+
 ## General resources
 
 - [iOS Dev Weekly](http://iosdevweekly.com)
