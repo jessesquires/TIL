@@ -29,6 +29,10 @@ See also: [Apple Platform Development](../apple_platform)
 
 - [30 tips to make you a better iOS developer](https://www.fadel.io/blog/posts/30-tips-to-make-you-a-better-ios-developer/)
 
+## Firmware
+
+- [IPSW Downloads: Download current and previous versions of Apple's iOS, iPadOS, watchOS, tvOS and audioOS firmware and receive notifications when new firmwares are released.](https://ipsw.me)
+
 ## General resources
 
 - [iOS Dev Weekly](http://iosdevweekly.com)
