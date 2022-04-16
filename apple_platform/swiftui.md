@@ -40,6 +40,10 @@ Apps built fully (or mostly) with SwiftUI.
 >
 > Call `Self._printChanges()` inside the body of a view to print out the changes that have triggered the view update.
 
+#### [SwiftUI performance tips](https://martinmitrevski.com/2022/04/14/swiftui-performance-tips/)
+
+> SwiftUI has been around for almost 3 years now, and during this period working with it, I’ve noticed few groups of developer mistakes (both mine and from others) that can impact its performance. In this post, we will look at these pitfalls, and their potential solutions.
+
 ## Collections
 
 - [Discover SwiftUI on Swift by Sundell](https://www.swiftbysundell.com/discover/swiftui/)
