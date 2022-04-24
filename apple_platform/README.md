@@ -6,6 +6,7 @@ See also: [iOS](../ios) and [macOS](../macos)
 
 ## Contents
 
+- [App Store](./app_store.md)
 - [Codesigning](./codesigning.md)
 - [Combine](./combine.md)
 - [Concurrency: GCD, libdispatch, threads, queues, async/await](./concurrency.md)
