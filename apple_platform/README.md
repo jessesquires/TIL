@@ -17,6 +17,7 @@ See also: [iOS](../ios) and [macOS](../macos)
 - [Foundation](./foundation.md)
 - [Frameworks](./frameworks.md)
 - [l10n + i18n](./l10n+i18n.md)
+- [Logging](./logging.md)
 - [SwiftUI](./swiftui.md)
 
 ## Links
