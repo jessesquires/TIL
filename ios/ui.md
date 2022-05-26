@@ -40,6 +40,12 @@
 
 > Apple gave buttons a big upgrade in iOS 15. You now create and update button configurations much like the changes Apple introduced for collection and table view cells in iOS 14.
 
+#### [Using `QLPreviewController`](https://mobile.twitter.com/JordanMorgan10/status/1526999338928439296)
+
+> I was today year's old when I realized you can use the QuickLook framework to perform this custom view controller transition for you with one delegate method 🤯.
+
+See: [QLPreviewController](https://developer.apple.com/documentation/quicklook/qlpreviewcontroller)
+
 ## SF Symbols
 
 #### [SF Symbols Changes in iOS 14.2](https://hacknicity.medium.com/sf-symbols-changes-in-ios-14-2-8a8bdf708426)
