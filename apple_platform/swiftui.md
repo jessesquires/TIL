@@ -156,6 +156,10 @@ See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blo
 >
 > But how does it work?
 
+#### [SwiftUI: Understanding identity via transitions](https://sakunlabs.com/blog/swiftui-identity-transitions/)
+
+> In SwiftUI, identity holds the key to understanding how the rendering system works. A View's identity tells SwiftUI which of that View's values correspond to the same rendered view over time. This identity has strong implications for correctness, performance, and as we will see, transitions.
+
 ## Working with Core Data
 
 #### [Core Data and SwiftUI](https://davedelong.com/blog/2021/04/03/core-data-and-swiftui/)
