@@ -309,3 +309,8 @@ See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blo
 #### [How to render text with a color gradient in SwiftUI](https://sarunw.com/posts/how-to-render-text-with-color-gradient-in-swiftui/)
 
 > This article will explore how to render text with color gradients.
+
+#### [How the SwiftUI View Lifecycle and Identity Work](https://doordash.engineering/2022/05/31/how-the-swiftui-view-lifecycle-and-identity-work/)
+
+> A beginner friendly article on view identity with an intro about Swift UI in general.
+
