@@ -1,4 +1,6 @@
-# Concurrency: GCD, libdispatch, threads, queues, async/await
+# Concurrency
+
+## GCD, libdispatch, threads, queues
 
 #### [libdispatch efficiency tips](https://gist.github.com/tclementdev/6af616354912b0347cdf6db159c37057):
 
@@ -58,10 +60,14 @@ Queues with `.background` Quality of Service (QoS) may *never* be executed, e.g.
 
 > In my previous post I describe how NetNewsWire handles threading, and I touch on some of the benefits — but I want to be more explicit about them.
 
-#### [The difference between `Thread.sleep()` and `Task.sleep()`](https://trycombine.com/posts/thread-task-sleep/)
-
-> So here’s a quick and simple example that showcases some of the nice features of the new concurrency model without going into much detail.
+## Swift Concurrency, `async`/`await`
 
 #### [What is structured concurrency?](https://oleb.net/2021/structured-concurrency/)
 
 > Structured concurrency is a new term for most Swift developers. This is an attempt to decipher its meaning.
+
+#### [The difference between `Thread.sleep()` and `Task.sleep()`](https://trycombine.com/posts/thread-task-sleep/)
+
+> So here’s a quick and simple example that showcases some of the nice features of the new concurrency model without going into much detail.
+
+#### [Swift Concurrency – Things They Don’t Tell You](https://wojciechkulik.pl/ios/swift-concurrency-things-they-dont-tell-you)
