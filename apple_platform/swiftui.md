@@ -313,3 +313,7 @@ See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blo
 #### [How to render text with a color gradient in SwiftUI](https://sarunw.com/posts/how-to-render-text-with-color-gradient-in-swiftui/)
 
 > This article will explore how to render text with color gradients.
+
+#### [Running Code Only Once in SwiftUI](https://www.swiftjectivec.com/swiftui-run-code-only-once-versus-onappear-or-task/)
+
+> I’ve had a few situations in SwiftUI where I only want things to fire once and initially. At face value, this seems like a job for either `.onAppear` or the more nascent `.task`.
