@@ -160,6 +160,10 @@ See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blo
 
 > In SwiftUI, identity holds the key to understanding how the rendering system works. A View's identity tells SwiftUI which of that View's values correspond to the same rendered view over time. This identity has strong implications for correctness, performance, and as we will see, transitions.
 
+#### [How the SwiftUI View Lifecycle and Identity Work](https://doordash.engineering/2022/05/31/how-the-swiftui-view-lifecycle-and-identity-work/)
+
+> A beginner friendly article on view identity with an intro about Swift UI in general.
+
 ## Working with Core Data
 
 #### [Core Data and SwiftUI](https://davedelong.com/blog/2021/04/03/core-data-and-swiftui/)
@@ -309,8 +313,3 @@ See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blo
 #### [How to render text with a color gradient in SwiftUI](https://sarunw.com/posts/how-to-render-text-with-color-gradient-in-swiftui/)
 
 > This article will explore how to render text with color gradients.
-
-#### [How the SwiftUI View Lifecycle and Identity Work](https://doordash.engineering/2022/05/31/how-the-swiftui-view-lifecycle-and-identity-work/)
-
-> A beginner friendly article on view identity with an intro about Swift UI in general.
-
