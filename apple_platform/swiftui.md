@@ -128,6 +128,10 @@ See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blo
 
 ## Behind the scenes: How SwiftUI works
 
+#### [clipped() doesn’t affect hit testing](https://oleb.net/2022/clipped-hit-testing/)
+
+> The clipped() modifier in SwiftUI clips a view to its bounds, hiding any out-of-bounds content. But note that clipping doesn’t affect hit testing; the clipped view can still receive taps/clicks outside the visible area.
+
 #### [How an Hstack Lays out Its Children](https://www.objc.io/blog/2020/11/10/hstacks-child-ordering/)
 
 > For the most part SwiftUI’s layout system is intuitive to use, letting you achieve what you want with a little bit of experimentation. However, sometimes you encounter behaviors that are hard to reason about without a deeper understanding of the underlying implementation.
