@@ -13,6 +13,7 @@ Be aware that client-side validation is susceptible to being undermined by hacks
 - [Cocoanetics/Kvitto: App Store Receipt Validation](https://github.com/Cocoanetics/Kvitto)
 - [Choosing a Receipt Validation Technique — Apple Developer](https://developer.apple.com/documentation/storekit/original_api_for_in-app_purchase/choosing_a_receipt_validation_technique#//apple_ref/doc/uid/TP40010573)
 - Example: [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS/blob/38d6abba3e1c21156095ac3a1096d5e829df4b96/ChatSecureCore/Classes/View%20Controllers/PurchaseViewController.swift#L230)
+- [New Receipt Validation Sample Code](https://mjtsai.com/blog/2022/05/20/new-receipt-validation-sample-code/) (2022)
 
 ## Free Trials
 
