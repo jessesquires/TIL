@@ -31,7 +31,7 @@ See also: [Apple Platform Development](../apple_platform)
 
 ## Firmware
 
-- [IPSW Downloads: Download current and previous versions of Apple's iOS, iPadOS, watchOS, tvOS and audioOS firmware and receive notifications when new firmwares are released.](https://ipsw.me)
+- [IPSW Downloads: current and previous versions of iOS, iPadOS, watchOS, tvOS and audioOS firmware](https://ipsw.me)
 
 ## General resources
 
@@ -53,3 +53,4 @@ See also: [Apple Platform Development](../apple_platform)
 - [App Preview Specs](https://help.apple.com/app-store-connect/#/dev4e413fcb8)
 - [ScreenSizes.app](https://www.screensizes.app)
 - [iPhone 13 Screen Sizes](https://useyourloaf.com/blog/iphone-13-screen-sizes/)
+- [iPhone 14 Screen Sizes](https://useyourloaf.com/blog/iphone-14-screen-sizes/)
