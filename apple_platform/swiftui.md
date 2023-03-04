@@ -212,6 +212,10 @@ See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blo
 
 > While this is great and can save us hundreds of hours, sometimes we want to make our UI declarations even more adaptive: in this article, let’s see how we can do so.
 
+#### [SwiftUI View That Fits](https://useyourloaf.com/blog/swiftui-view-that-fits/)
+
+> The SwiftUI ViewThatFits view, introduced in iOS 16, makes it a lot simpler to build layouts that adapt to make best use of the available space.
+
 ## General "How To"
 
 #### [How to define SwiftUI properties](https://twitter.com/chriseidhof/status/1280433133813456896)
