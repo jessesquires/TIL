@@ -18,6 +18,10 @@
 
 > In this demonstration a client connects to a server, negotiates a TLS 1.2 session, sends "ping", receives "pong", and then terminates the session. Click below to begin exploring.
 
+#### [Solving common problems with Kubernetes](https://blog.adamchalmers.com/kubernetes-problems/)
+
+> What problem is k8s even trying to solve? Why do we need another new complicated software system, with its own weird proper nouns and YAML schemas and certification process? I'll answer this, but before I do, we need to take a quick step back and rewind to 2013, where the software industry first became obsessed with: [...]
+
 ## Tutorials
 
 #### [Create your first HTTP endpoint with Swift on AWS Lambda](https://fabianfett.de/swift-on-aws-lambda-creating-your-first-http-endpoint)
