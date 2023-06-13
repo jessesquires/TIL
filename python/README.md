@@ -7,6 +7,7 @@
 - [Learn Python the Hard Way](https://learncodethehardway.org/python/)
 - [Codecademy: Python Courses & Tutorials](https://www.codecademy.com/catalog/language/python)
 - [Google's Python Class](https://developers.google.com/edu/python/)
+- [Interviewbit: Python Course](https://www.interviewbit.com/blog/best-free-python-course/)
 
 ### Conferences
 
