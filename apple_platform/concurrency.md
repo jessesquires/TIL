@@ -71,3 +71,7 @@ Queues with `.background` Quality of Service (QoS) may *never* be executed, e.g.
 > So here’s a quick and simple example that showcases some of the nice features of the new concurrency model without going into much detail.
 
 #### [Swift Concurrency – Things They Don’t Tell You](https://wojciechkulik.pl/ios/swift-concurrency-things-they-dont-tell-you)
+
+#### [Modern Swift Concurrency Summary, Cheatsheet](https://www.andyibanez.com/posts/modern-swift-concurrency-summary-cheatsheet-thanks/)
+
+> Since WWDC21, we have talked, extensively, about all the new concurrency features introduced in Swift 5.5. We covered a lot of topics, so I decided to finish off this series writing a summary article were we cover the most important topics of each article.
