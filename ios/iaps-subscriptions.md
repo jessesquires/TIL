@@ -49,4 +49,5 @@ Be aware that client-side validation is susceptible to being undermined by hacks
 ## StoreKit
 
 - [Mastering StoreKit 2](https://swiftwithmajid.com/2023/08/01/mastering-storekit2/)
-- [Mastering StoreKit 2. ProductView and StoreView.](https://swiftwithmajid.com/2023/08/08/mastering-storekit2-productview-in-swiftui/)
+- [Mastering StoreKit 2. ProductView and StoreView](https://swiftwithmajid.com/2023/08/08/mastering-storekit2-productview-in-swiftui/)
+- [Mastering StoreKit 2. SubscriptionStoreView in SwiftUI](https://swiftwithmajid.com/2023/08/23/mastering-storekit2-subscriptionstoreview-in-swiftui/)
