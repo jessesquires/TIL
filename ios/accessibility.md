@@ -20,3 +20,7 @@ See also: [Accessibility Smart Invert](https://useyourloaf.com/blog/accessibilit
 #### [Getting Started With Accessibility](https://www.basbroek.nl/getting-started-voiceover)
 
 > More specifically, what I want to look at is not “what APIs are there to help make an app accessible?”, but rather “how do I use the available APIs to make my app accessible as best as possible?”.
+
+#### [Xcode 15: Automated accessibility audits](https://www.polpiella.dev/xcode-15-automated-accessibility-audits)
+
+> Xcode 15 introduces a way of automatically performing accessibility audits on your app through UI tests. Such audits can help you identify accessibility issues such as missing labels for elements, clipped text, insufficient colour contrast, lack of support for Dynamic Type and many more.
