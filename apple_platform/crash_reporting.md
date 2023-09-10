@@ -2,6 +2,12 @@
 
 On Apple platforms.
 
+## [Implementing Your Own Crash Reporter](https://developer.apple.com/forums/thread/113742) (Hint: don't)
+
+> **I strongly advise against implementing your own crash reporter.** It’s very easy to create a basic crash reporter that works well enough to debug simple problems. It’s impossible to implement a good crash reporter, one that’s reliable, binary compatible, and sufficient to debug complex problems. The bulk of this post is a low-level explanation of that impossibility.
+
+## Legacy
+
 #### [Reliable Crash Reporting](https://landonf.org/code/objc/Reliable_Crash_Reporting.20110912.html), Landon Fuller
 
 > PLCrashReporter is a standalone open-source library for generating crash reports on iOS. When I first wrote the library in 2008, it was the only option for automatically generating and gathering crash reports from an iOS application. Apple's iOS crash reports were not available to developers, and existing crash reporters — such as Google's excellent Breakpad — were not supported on iOS (Breakpad still isn't).
