@@ -44,6 +44,10 @@ Apps built fully (or mostly) with SwiftUI.
 
 > SwiftUI has been around for almost 3 years now, and during this period working with it, I’ve noticed few groups of developer mistakes (both mine and from others) that can impact its performance. In this post, we will look at these pitfalls, and their potential solutions.
 
+#### [Working With UIViewRepresentable](https://chris.eidhof.nl/post/view-representable/)
+
+> When we work with SwiftUI, we can always drop down to UIKit level by using UIViewRepresentable, NSViewRepresentable or UIViewControllerRepresentable. The documentation around these protocols is still pretty sparse, and it can be hard to get them to work exactly the way we want. I tried to come up with some rules and patterns for using them.
+
 ## Collections
 
 - [Discover SwiftUI on Swift by Sundell](https://www.swiftbysundell.com/discover/swiftui/)
