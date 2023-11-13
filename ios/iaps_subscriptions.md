@@ -14,6 +14,7 @@ Be aware that client-side validation is susceptible to being undermined by hacks
 - [Choosing a Receipt Validation Technique — Apple Developer](https://developer.apple.com/documentation/storekit/original_api_for_in-app_purchase/choosing_a_receipt_validation_technique#//apple_ref/doc/uid/TP40010573)
 - Example: [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS/blob/38d6abba3e1c21156095ac3a1096d5e829df4b96/ChatSecureCore/Classes/View%20Controllers/PurchaseViewController.swift#L230)
 - [New Receipt Validation Sample Code](https://mjtsai.com/blog/2022/05/20/new-receipt-validation-sample-code/) (2022)
+- [Mac App Store receipt validation revisited](https://lapcatsoftware.com/articles/2023/11/4.html), Jeff Johnson 2023
 - [verifyReceipt | Apple Developer Documentation](https://developer.apple.com/documentation/appstorereceipts/verifyreceipt)
 - [Validating receipts on the device | Apple Developer Documentation](https://developer.apple.com/documentation/appstorereceipts/validating_receipts_on_the_device) (OLD)
 
