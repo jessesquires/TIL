@@ -4,7 +4,8 @@
 
 ## Tips and Tricks
 
-Find a list of [useful tips here](https://xcode-tips.github.io).
+- [Community Xcode Tips](https://xcode-tips.github.io)
+- [Xcode.tips](https://xcode.tips)
 
 ## Xcode build process
 
