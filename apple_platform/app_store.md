@@ -2,6 +2,10 @@
 
 *App Store SEO, Reviews and Ratings, Pricing Strategies, Screenshot advice, etc.*
 
+## Screenshots
+
+- [App Store Screenshot specifications](https://developer.apple.com/help/app-store-connect/reference/screenshot-specifications)
+
 ## Ratings and Reviews
 
 [Ryan McLeod on Twitter](https://twitter.com/warpling/status/1517174147570356225):
