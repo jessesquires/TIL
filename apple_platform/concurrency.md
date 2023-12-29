@@ -1,5 +1,27 @@
 # Concurrency
 
+## Swift Concurrency (`Task`, `async`, `await`, etc.)
+
+#### [What is structured concurrency?](https://oleb.net/2021/structured-concurrency/)
+
+> Structured concurrency is a new term for most Swift developers. This is an attempt to decipher its meaning.
+
+#### [The difference between `Thread.sleep()` and `Task.sleep()`](https://trycombine.com/posts/thread-task-sleep/)
+
+> So here’s a quick and simple example that showcases some of the nice features of the new concurrency model without going into much detail.
+
+#### [Swift Concurrency – Things They Don’t Tell You](https://wojciechkulik.pl/ios/swift-concurrency-things-they-dont-tell-you)
+
+> However, with great power comes great responsibility. If you learn from tutorials or even from the documentation, it’s really hard to find some details on how it works under the hood.
+
+#### [Modern Swift Concurrency Summary, Cheatsheet](https://www.andyibanez.com/posts/modern-swift-concurrency-summary-cheatsheet-thanks/)
+
+> Since WWDC21, we have talked, extensively, about all the new concurrency features introduced in Swift 5.5. We covered a lot of topics, so I decided to finish off this series writing a summary article were we cover the most important topics of each article.
+
+#### [Swift Concurrency Waits for No One](https://saagarjha.com/blog/2023/12/22/swift-concurrency-waits-for-no-one/)
+
+> Swift Concurrency promises to make it possible to write correct, performant code designed for today’s world of asynchronous events and ubiquitous hardware parallelism. And indeed, when wielded appropriately it does exactly that. However–much like an iceberg–the simple APIs it exposes hide a staggering amount of complexity underneath. Unfortunately, concurrency is a challenging topic to reason about when compared to straight-line, synchronous code, and it is difficult for any programming model to paper over all of its subtleties.
+
 ## GCD, libdispatch, threads, queues
 
 #### [libdispatch efficiency tips](https://gist.github.com/tclementdev/6af616354912b0347cdf6db159c37057):
@@ -20,13 +42,15 @@
 > - Queues as locks; os_unfair_lock is more efficient (sadly a little trickier to use in Swift; no ideal solution here yet)
 > - Turning async into sync with semaphores
 
-#### Quality of Service
+### Quality of Service
+
 Queues with `.background` Quality of Service (QoS) may *never* be executed, e.g. low power mode, so plan accordingly.
 - If using `.background`, you probably want `.utility` instead.
 - [Tweet](https://twitter.com/gregheo/status/1001501337907970048)
 - [Docs](https://developer.apple.com/library/content/documentation/Performance/Conceptual/EnergyGuide-iOS/PrioritizeWorkWithQoS.html)
 
-#### Threads != Queues
+### Threads != Queues
+
 - [Main Queue vs Main Thread](http://blog.benjamin-encz.de/post/main-queue-vs-main-thread/)
 - [Queues are not bound to any specific thread](https://blog.krzyzanowskim.com/2016/06/03/queues-are-not-bound-to-any-specific-thread/)
 
@@ -59,19 +83,3 @@ Queues with `.background` Quality of Service (QoS) may *never* be executed, e.g.
 #### [Benefits of NetNewsWire’s Threading Model](https://inessential.com/2021/03/21/benefits_of_netnewswires_threading_model)
 
 > In my previous post I describe how NetNewsWire handles threading, and I touch on some of the benefits — but I want to be more explicit about them.
-
-## Swift Concurrency, `async`/`await`
-
-#### [What is structured concurrency?](https://oleb.net/2021/structured-concurrency/)
-
-> Structured concurrency is a new term for most Swift developers. This is an attempt to decipher its meaning.
-
-#### [The difference between `Thread.sleep()` and `Task.sleep()`](https://trycombine.com/posts/thread-task-sleep/)
-
-> So here’s a quick and simple example that showcases some of the nice features of the new concurrency model without going into much detail.
-
-#### [Swift Concurrency – Things They Don’t Tell You](https://wojciechkulik.pl/ios/swift-concurrency-things-they-dont-tell-you)
-
-#### [Modern Swift Concurrency Summary, Cheatsheet](https://www.andyibanez.com/posts/modern-swift-concurrency-summary-cheatsheet-thanks/)
-
-> Since WWDC21, we have talked, extensively, about all the new concurrency features introduced in Swift 5.5. We covered a lot of topics, so I decided to finish off this series writing a summary article were we cover the most important topics of each article.
