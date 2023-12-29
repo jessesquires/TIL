@@ -2,7 +2,7 @@
 
 ## Swift Concurrency (`Task`, `async`, `await`, etc.)
 
-#### [ConcurrencyRecipes](https://github.com/mattmassicotte/ConcurrencyRecipes)
+#### [Concurrency Recipes](https://github.com/mattmassicotte/ConcurrencyRecipes), Matt Massicotte
 
 > Practical solutions to problems with Swift Concurrency.
 
