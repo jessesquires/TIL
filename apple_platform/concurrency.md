@@ -2,6 +2,10 @@
 
 ## Swift Concurrency (`Task`, `async`, `await`, etc.)
 
+#### [ConcurrencyRecipes](https://github.com/mattmassicotte/ConcurrencyRecipes)
+
+> Practical solutions to problems with Swift Concurrency.
+
 #### [What is structured concurrency?](https://oleb.net/2021/structured-concurrency/)
 
 > Structured concurrency is a new term for most Swift developers. This is an attempt to decipher its meaning.
