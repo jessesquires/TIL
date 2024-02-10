@@ -17,6 +17,11 @@ See also: [Apple Platform Development](../apple_platform)
 - [Catalina, App Notarization, and Sparkle](https://furbo.org/2019/08/16/catalina-app-notarization-and-sparkle/)
 - [Mac APIs that Require Provisioning Profiles](https://mjtsai.com/blog/2021/03/16/mac-apis-that-require-provisioning-profiles/)
 
+## System Settings / Preferences
+
+- [How to launch system preferences to a specific preference pane using bundle identifier?](https://stackoverflow.com/questions/52751941/how-to-launch-system-preferences-to-a-specific-preference-pane-using-bundle-iden)
+- [Collection of methods for activating parts of System Preferences / System Settings on macOS.](https://github.com/bvanpeski/SystemPreferences)
+
 ## Other
 
 - [The Wisdom of Quinn: Informative DevForum posts from everyone's favorite DTS member](https://github.com/macshome/The-Wisdom-of-Quinn)
