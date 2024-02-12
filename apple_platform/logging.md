@@ -1,5 +1,9 @@
 # Logging
 
+#### [Xcode Console and Unified Logging](https://useyourloaf.com/blog/xcode-console-and-unified-logging/)
+
+> If you’re still using print statements to debug your App it’s time you moved to the unified OS logging framework.
+
 #### [Logging in Swift](https://swiftwithmajid.com/2022/04/06/logging-in-swift/)
 
 > Logging is an excellent technique to track and understand user actions through the app. This week we will learn how to implement proper logging functionality in our apps.
