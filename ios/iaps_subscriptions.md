@@ -53,3 +53,4 @@ Be aware that client-side validation is susceptible to being undermined by hacks
 - [Mastering StoreKit 2. ProductView and StoreView](https://swiftwithmajid.com/2023/08/08/mastering-storekit2-productview-in-swiftui/)
 - [Mastering StoreKit 2. SubscriptionStoreView in SwiftUI](https://swiftwithmajid.com/2023/08/23/mastering-storekit2-subscriptionstoreview-in-swiftui/)
 - [Mastering StoreKit 2. SwiftUI view modifiers](https://swiftwithmajid.com/2023/08/29/mastering-storekit2-swiftui-view-modifiers/)
+- [StoreKit 2 Tutorial with Swift UI - How to add In-App Purchases to your app — Superwall](https://superwall.com/blog/make-a-swiftui-app-with-in-app-purchases-and-subscriptions-using-storekit-2)
