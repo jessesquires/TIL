@@ -18,6 +18,11 @@ Be aware that client-side validation is susceptible to being undermined by hacks
 - [verifyReceipt | Apple Developer Documentation](https://developer.apple.com/documentation/appstorereceipts/verifyreceipt)
 - [Validating receipts on the device | Apple Developer Documentation](https://developer.apple.com/documentation/appstorereceipts/validating_receipts_on_the_device) (OLD)
 
+## Tech Notes
+
+- [TN3122: Receipt validation with the App Store fails with a non-zero error code](https://developer.apple.com/documentation/technotes/tn3122-receipt-validation-with-the-app-store-fails-with-a-non-zero-error-code)
+- [TN3138: Handling App Store receipt signing certificate changes](https://developer.apple.com/documentation/technotes/tn3138-handling-app-store-receipt-signing-certificate-changes)
+
 ## Free Trials
 
 - [Implementing Introductory Offers in Your App — Apple Developer](https://developer.apple.com/documentation/storekit/original_api_for_in-app_purchase/subscriptions_and_offers/implementing_introductory_offers_in_your_app)
