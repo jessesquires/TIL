@@ -10,7 +10,7 @@
 
 > Build a zip archive, disk image, or installer package for distributing your Mac software.
 
-## Blogs and Forums
+## Indie Distribution + Licensing
 
 #### [Distributing Mac apps outside the App Store, a quick start guide](https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store), Guilherme Rambo
 
@@ -19,6 +19,24 @@
 #### [Creating a licensing system for paid apps in Swift](https://swiftrocks.com/creating-a-license-system-for-paid-apps-in-swift.html), Bruno Rocha
 
 > The easiest way is to create a paid macOS app is to simply put a price tag in the App Store, but it's a common practice nowadays to provide a free download that can later be upgraded to a pro version. In this article, we'll use our knowledge of serial numbers and asymmetric cryptography to create license files that cannot be reverse-engineered and use them to activate an app's premium features.
+
+#### [Why & How to Distribute Your App Outside the Mac App Store](https://christiantietze.de/fastspring/), Christian Tietze
+
+> Set up a store to distribute your macOS applications outside of the Mac App Store for increased revenue and flexibility. I recommend FastSpring for this.
+
+#### [3 Types of FastSpring Storefronts](https://christiantietze.de/posts/2024/03/fastspring-storefronts/), Christian Tietze
+
+> Modern FastSpring storefronts come in three standard flavors.
+
+#### [Make Money Outside the Mac App Store](https://christiantietze.de/books/make-money-outside-mac-app-store-fastspring/), Christian Tietze
+
+>  You can join the league of pro Mac devs and stay in control of app distribution, offer upgrade pricing, take care of your customers, and build a thriving business. Best of all: You can have all that in a day.
+
+#### [TrialLicensing](https://github.com/CleanCocoa/TrialLicensing), Christian Tietze
+
+> Swift framework to deal with licensing and time-based trial periods in macOS apps.
+
+## Developer ID + Notarization
 
 #### [The Care and Feeding of Developer ID](https://developer.apple.com/forums/thread/732320), Quinn “The Eskimo!”
 
