@@ -18,6 +18,10 @@ Be aware that client-side validation is susceptible to being undermined by hacks
 - [verifyReceipt | Apple Developer Documentation](https://developer.apple.com/documentation/appstorereceipts/verifyreceipt)
 - [Validating receipts on the device | Apple Developer Documentation](https://developer.apple.com/documentation/appstorereceipts/validating_receipts_on_the_device) (OLD)
 
+#### [App Store Subscriptions and Family Sharing](https://furbo.org/2024/03/29/app-store-subscriptions-and-family-sharing/)
+
+> That code will work fine until you encounter a customer that has Family Sharing enabled, as most do. The issue is that the Product.SubscriptionInfo can contain multiple items, and the code above only checks the first one.
+
 ## Tech Notes
 
 - [TN3122: Receipt validation with the App Store fails with a non-zero error code](https://developer.apple.com/documentation/technotes/tn3122-receipt-validation-with-the-app-store-fails-with-a-non-zero-error-code)
