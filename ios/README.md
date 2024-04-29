@@ -17,7 +17,6 @@ See also: [Apple Platform Development](../apple_platform)
 - [Push Notifications](./push_notifications.md)
 - [Simulator](./simulator.md)
 - [Testing](./testing.md)
-- [Threads, Queues, GCD](./threads_and_queues.md)
 - [UI](./ui.md)
 - [Universal Links](./universal_links.md)
 
