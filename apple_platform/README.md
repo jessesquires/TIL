@@ -11,6 +11,7 @@
 ## Contents
 
 - [App Store](./app_store.md)
+- [CloudKit](./cloudkit.md)
 - [Codesigning](./codesigning.md)
 - [Combine](./combine.md)
 - [Concurrency: GCD, libdispatch, threads, queues, async/await](./concurrency.md)
