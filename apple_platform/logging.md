@@ -28,3 +28,7 @@
 #### [Fetching OSLog Messages in Swift](https://useyourloaf.com/blog/fetching-oslog-messages-in-swift/)
 
 > Using the OSLog framework for logging in your Apps? How do you retrieve those logs at runtime to show them in your App?
+
+#### [OSLogStore on Monterey](https://mjtsai.com/blog/2021/12/10/oslogstore-on-monterey/)
+
+> Notes from Michael Tsai.
