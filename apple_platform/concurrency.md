@@ -26,6 +26,12 @@
 
 > Swift Concurrency promises to make it possible to write correct, performant code designed for today’s world of asynchronous events and ubiquitous hardware parallelism. And indeed, when wielded appropriately it does exactly that. However–much like an iceberg–the simple APIs it exposes hide a staggering amount of complexity underneath. Unfortunately, concurrency is a challenging topic to reason about when compared to straight-line, synchronous code, and it is difficult for any programming model to paper over all of its subtleties.
 
+## Swift Actors
+
+#### [Actor reentrancy in Swift explained](https://www.donnywals.com/actor-reentrancy-in-swift-explained/)
+
+> When you start learning about actors in Swift, you’ll find that explanations will always contain something along the lines of “Actors protect shared mutable state by making sure the actor only does one thing at a time”. As a single sentence summary of actors, this is great but it misses an important nuance. While it’s true that actors do only one thing at a time, they don’t always execute function calls atomically.
+
 ## GCD, libdispatch, threads, queues
 
 #### [libdispatch efficiency tips](https://gist.github.com/tclementdev/6af616354912b0347cdf6db159c37057):
