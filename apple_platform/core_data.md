@@ -1,4 +1,4 @@
-# Core Data
+# CoreData
 
 #### [The Laws of Core Data](http://davedelong.com/blog/2018/05/09/the-laws-of-core-data/)
 
@@ -33,11 +33,11 @@
 #### [Core Data In Memory Store](https://useyourloaf.com/blog/core-data-in-memory-store/)
 
 > The old way of creating an in-memory store was to change the store type in the persistent store descriptor before loading the store. The default is `NSSQLiteStoreType` but we can switch to `NSInMemoryStoreType`:
-> 
+>
 > `storeDescription.type = NSInMemoryStoreType`
 >
 > There’s nothing I can find in the documentation but Apple showed a different way during WWDC 2018:
-> 
+>
 > `storeDescription.url = URL(fileURLWithPath: "/dev/null")`
 >
 > This still uses an SQLite store but we keep it in memory instead of writing it to disk. As well as being faster this also gives us a clean store each time.
@@ -45,3 +45,7 @@
 #### [Async Core Data Testing](https://useyourloaf.com/blog/async-core-data-testing/)
 
 > Testing Core Data has some challenges. Using an in-memory store helps but what if the operation you want to test happens asynchronously? One approach is to have the test listen for the notification Core Data sends when it saves changes.
+
+#### [Core Data Reform: Achieving Elegant Concurrency Operations like SwiftData](https://fatbobman.com/en/posts/core-data-reform-achieving-elegant-concurrency-operations-like-swiftdata/)
+
+> Can we integrate some of SwiftData’s excellent design philosophies and ingenious implementations into the practical use of Core Data? This article aims to explore how to introduce elegant and safe concurrency operations similar to those of SwiftData into Core Data, implementing a Core Data version of `@ModelActor`.
