@@ -18,6 +18,7 @@
 - [Core Data](./core_data.md)
 - [Crash Reporting](./crash_reporting.md)
 - [Dates](./dates.md)
+- [Debugging](./debugging.md)
 - [Emoji](./emoji.md)
 - [Foundation](./foundation.md)
 - [Frameworks](./frameworks.md)
