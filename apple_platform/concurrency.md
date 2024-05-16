@@ -6,6 +6,10 @@
 
 > Practical solutions to problems with Swift Concurrency.
 
+#### [WWDC21: Explore structured concurrency in Swift](https://developer.apple.com/videos/play/wwdc2021/10134/)
+
+`async let`, task tree, (cooperative) cancellation, group tasks (`withThrowTaskGroup()`), `for await`, unstructured tasks, detached tasks
+
 #### [What is structured concurrency?](https://oleb.net/2021/structured-concurrency/)
 
 > Structured concurrency is a new term for most Swift developers. This is an attempt to decipher its meaning.
