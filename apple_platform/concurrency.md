@@ -3,7 +3,7 @@
 ## WWDC 🎥
 
 - [WWDC21: Explore structured concurrency in Swift](https://developer.apple.com/videos/play/wwdc2021/10134/)
-    - `async let`, task tree, (cooperative) cancellation, group tasks (`withThrowTaskGroup()`), `for await`, unstructured tasks, detached tasks
+    - `async let`, task tree, (cooperative) cancellation, group tasks (`withThrowingTaskGroup()`), `for await`, unstructured tasks, detached tasks.
 - [WWDC21: Swift concurrency: Behind the scenes](https://developer.apple.com/wwdc21/10254)
     - advanced discussion on thread pool. comparisons to GCD, locks, etc.
 
