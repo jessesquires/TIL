@@ -81,6 +81,8 @@ Queues with `.background` Quality of Service (QoS) may *never* be executed, e.g.
 >
 > How would serial queues help us with concurrency? Well various program components would have their own private queue which would be used to ensure thread-safety (locks would not even be needed anymore) and those components would be concurrent between themselves. They told us these were "islands of serialization in a sea of concurrency".
 
+## Atomicity
+
 #### [Atomic property wrapper in Swift](https://www.onswiftwings.com/posts/atomic-property-wrapper/)
 
 > Let’s take a closer look at this feature and check how can we use it to define atomic properties in Swift.
