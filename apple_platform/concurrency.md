@@ -6,6 +6,7 @@
     - `async let`, task tree, (cooperative) cancellation, group tasks (`withThrowingTaskGroup()`), `for await`, unstructured tasks, detached tasks.
 - [WWDC21: Swift concurrency: Behind the scenes](https://developer.apple.com/wwdc21/10254)
     - advanced discussion on thread pool. comparisons to GCD, locks, etc.
+- [WWDC17: Modernizing Grand Central Dispatch Usage](https://developer.apple.com/videos/play/wwdc2017/706/)
 
 ## Swift Concurrency (`Task`, `async`, `await`, etc.)
 
