@@ -59,6 +59,8 @@
 > - Queues as locks; os_unfair_lock is more efficient (sadly a little trickier to use in Swift; no ideal solution here yet)
 > - Turning async into sync with semaphores
 
+[`OSAllocatedUnfairLock`](https://developer.apple.com/documentation/os/osallocatedunfairlock), introduced in iOS 16 and macOS 13, is a replacement for `os_unfair_lock`.
+
 ### Quality of Service
 
 Queues with `.background` Quality of Service (QoS) may *never* be executed, e.g. low power mode, so plan accordingly.
@@ -92,6 +94,8 @@ Queues with `.background` Quality of Service (QoS) may *never* be executed, e.g.
 > Generally, you can summarize atomic as "one at a time".
 >
 > For example, when accessing or mutating a property is atomic, it means that only one read or write operation can be performed at a time. If you have a program that reads a property atomically, this means that the property cannot change during this read operation.
+
+## Practical Advice / Examples
 
 #### [How NetNewsWire Handles Threading](https://inessential.com/2021/03/20/how_netnewswire_handles_threading)
 
