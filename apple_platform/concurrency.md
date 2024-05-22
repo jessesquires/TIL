@@ -34,6 +34,10 @@
 
 > Swift Concurrency promises to make it possible to write correct, performant code designed for today’s world of asynchronous events and ubiquitous hardware parallelism. And indeed, when wielded appropriately it does exactly that. However–much like an iceberg–the simple APIs it exposes hide a staggering amount of complexity underneath. Unfortunately, concurrency is a challenging topic to reason about when compared to straight-line, synchronous code, and it is difficult for any programming model to paper over all of its subtleties.
 
+#### [Thread Safety in Swift](https://swiftrocks.com/thread-safety-in-swift)
+
+> In this article, we'll take a look at what thread safety is, which tools iOS provides to help us achieve it, and how they compare in terms of performance.
+
 ## Swift Actors
 
 #### [Actor reentrancy in Swift explained](https://www.donnywals.com/actor-reentrancy-in-swift-explained/)
