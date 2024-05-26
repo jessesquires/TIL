@@ -6,6 +6,11 @@
 
 - [Community Xcode Tips](https://xcode-tips.github.io)
 - [Xcode.tips](https://xcode.tips)
+- [Xcode UI Testing Cheat Sheet](https://www.hackingwithswift.com/articles/148/xcode-ui-testing-cheat-sheet)
+
+## Build Settings
+
+- [BuildSettingExtractor](https://github.com/dempseyatgithub/BuildSettingExtractor): Extracts the build settings of an Xcode project into xcconfig build configuration files.
 
 ## Xcode build process
 

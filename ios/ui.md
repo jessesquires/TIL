@@ -50,6 +50,14 @@ See: [QLPreviewController](https://developer.apple.com/documentation/quicklook/q
 
 > Apple deprecated traitCollectionDidChange in iOS 17, replacing it with a method to register for specific trait changes. Let’s see how that works.
 
+#### [The Comprehensive Guide to iOS Context Menus](https://kylebashour.com/posts/context-menu-guide)
+
+#### [Faster UIActivityViewController Share Sheets with UIActivityItemProvider - Dan Griffin](https://contagious.dev/blog/faster-uiactivityviewcontroller-share-sheets-with-uiactivityitemprovider/)
+
+#### [Overriding Dark Mode](https://useyourloaf.com/blog/overriding-dark-mode/)
+
+#### [More Efficient/Faster Average Color of Image](https://christianselig.com/2021/04/efficient-average-color/)
+
 ## SF Symbols
 
 #### [SF Symbols Changes in iOS 14.2](https://hacknicity.medium.com/sf-symbols-changes-in-ios-14-2-8a8bdf708426)

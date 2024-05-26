@@ -32,3 +32,7 @@
 #### [OSLogStore on Monterey](https://mjtsai.com/blog/2021/12/10/oslogstore-on-monterey/)
 
 > Notes from Michael Tsai.
+
+## Other
+
+#### [Dangerous NSLog() Calls in Swift - mjtsai](https://mjtsai.com/blog/2021/11/02/dangerous-nslog-calls-in-swift/)

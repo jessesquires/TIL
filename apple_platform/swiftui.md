@@ -28,6 +28,8 @@ Apps built fully (or mostly) with SwiftUI.
 
 - [Apple: iOS App Dev with SwiftUI Tutorials](https://developer.apple.com/tutorials/app-dev-training/#swiftui-essentials)
 - [SwiftUI Examples for macOS](https://gavinw.me/swift-macos/), Gavin Wiggins
+- [Accessibility in SwiftUI - Swift with Majid](http://swiftwithmajid.com/2019/09/10/accessibility-in-swiftui/)
+- [ImageRenderer in SwiftUI - Swift with Majid](https://swiftwithmajid.com/2023/04/18/imagerenderer-in-swiftui/)
 
 ## Tools + Tips
 
@@ -249,7 +251,7 @@ See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blo
 
 > This week we will learn all about the new Toolbar API.
 
-#### [MatchedGeometryEffect | The SwiftUI Lab](https://swiftui-lab.com/matchedgeometryeffect-part1/)
+#### [MatchedGeometryEffect - The SwiftUI Lab](https://swiftui-lab.com/matchedgeometryeffect-part1/)
 
 > We are talking about a new extension to the View protocol, the .matchedGeometryEffect() modifier. On its own, it’s good enough, but in combination with other techniques we learned already (custom transitions and animatable modifiers), it becomes even better. It is an essential skill to put in your SwiftUI toolkit.
 

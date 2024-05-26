@@ -15,12 +15,22 @@ Be aware that client-side validation is susceptible to being undermined by hacks
 - Example: [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS/blob/38d6abba3e1c21156095ac3a1096d5e829df4b96/ChatSecureCore/Classes/View%20Controllers/PurchaseViewController.swift#L230)
 - [New Receipt Validation Sample Code](https://mjtsai.com/blog/2022/05/20/new-receipt-validation-sample-code/) (2022)
 - [Mac App Store receipt validation revisited](https://lapcatsoftware.com/articles/2023/11/4.html), Jeff Johnson 2023
-- [verifyReceipt | Apple Developer Documentation](https://developer.apple.com/documentation/appstorereceipts/verifyreceipt)
-- [Validating receipts on the device | Apple Developer Documentation](https://developer.apple.com/documentation/appstorereceipts/validating_receipts_on_the_device) (OLD)
+- [verifyReceipt - Apple Developer Documentation](https://developer.apple.com/documentation/appstorereceipts/verifyreceipt)
+- [Validating receipts on the device - Apple Developer Documentation](https://developer.apple.com/documentation/appstorereceipts/validating_receipts_on_the_device) (OLD)
 
 #### [App Store Subscriptions and Family Sharing](https://furbo.org/2024/03/29/app-store-subscriptions-and-family-sharing/)
 
 > That code will work fine until you encounter a customer that has Family Sharing enabled, as most do. The issue is that the Product.SubscriptionInfo can contain multiple items, and the code above only checks the first one.
+
+## Subscription Management
+
+#### [Curtis Herbert](https://x.com/parrots/status/1250828059776880640)
+
+> Came up twice today, so PSA:
+>
+> If you have an iOS subscription-based app, you can UIApp.openURL "https://finance-app.itunes.apple.com/account/subscriptions” to pop the user right to the sub management screen.
+>
+> I argue you have a moral obligation to have a "manage sub" button in your app that does just that.
 
 ## Tech Notes
 
@@ -52,9 +62,10 @@ Be aware that client-side validation is susceptible to being undermined by hacks
 
 ## SDK
 
+- [App Store Receipts](https://developer.apple.com/documentation/appstorereceipts)
 - [Upcoming changes to the App Store receipt signing intermediate certificate](https://developer.apple.com/news/?id=smofnyhj) (2023)
-- [AppTransaction | Apple Developer Documentation](https://developer.apple.com/documentation/storekit/apptransaction)
-- [Transaction | Apple Developer Documentation](https://developer.apple.com/documentation/storekit/transaction)
+- [AppTransaction - Apple Developer Documentation](https://developer.apple.com/documentation/storekit/apptransaction)
+- [Transaction - Apple Developer Documentation](https://developer.apple.com/documentation/storekit/transaction)
 
 ## StoreKit
 

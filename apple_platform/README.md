@@ -10,12 +10,14 @@
 
 ## Contents
 
+- [Accessibility](./accessibility.md)
 - [App Store](./app_store.md)
 - [CloudKit](./cloudkit.md)
 - [Codesigning](./codesigning.md)
 - [Combine](./combine.md)
 - [Concurrency: GCD, libdispatch, threads, queues, async/await](./concurrency.md)
 - [Core Data](./core_data.md)
+- [CoreLocation](./core_location.md)
 - [Crash Reporting](./crash_reporting.md)
 - [Dates](./dates.md)
 - [Debugging](./debugging.md)
