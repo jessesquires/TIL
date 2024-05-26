@@ -32,9 +32,15 @@
 
 >  You can join the league of pro Mac devs and stay in control of app distribution, offer upgrade pricing, take care of your customers, and build a thriving business. Best of all: You can have all that in a day.
 
+## Libraries
+
 #### [TrialLicensing](https://github.com/CleanCocoa/TrialLicensing), Christian Tietze
 
 > Swift framework to deal with licensing and time-based trial periods in macOS apps.
+
+#### [Swift Package: FastSpring In-App Purchase](https://christiantietze.de/posts/2024/05/swift-package-fastspring-in-app-purchase/), Christian Tietze
+
+> With that in place, you can display a dedicated purchase window inside your app that doesn’t require a large context switch to the browser to make a sale.
 
 ## Developer ID + Notarization
 
