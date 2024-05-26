@@ -25,6 +25,7 @@
 - [Keychain](./keychain.md)
 - [l10n + i18n](./l10n+i18n.md)
 - [Logging](./logging.md)
+- [SwiftData](./swift_data.md)
 - [SwiftUI](./swiftui.md)
 - [UI/UX](./ui_ux.md)
 

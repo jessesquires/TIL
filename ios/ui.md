@@ -46,6 +46,10 @@
 
 See: [QLPreviewController](https://developer.apple.com/documentation/quicklook/qlpreviewcontroller)
 
+#### [Registering For Trait Changes](https://useyourloaf.com/blog/registering-for-trait-changes/)
+
+> Apple deprecated traitCollectionDidChange in iOS 17, replacing it with a method to register for specific trait changes. Let’s see how that works.
+
 ## SF Symbols
 
 #### [SF Symbols Changes in iOS 14.2](https://hacknicity.medium.com/sf-symbols-changes-in-ios-14-2-8a8bdf708426)

@@ -4,6 +4,11 @@ You can find the [official documentation here](https://developer.apple.com/docum
 
 Also see [Fucking SwiftUI](https://fuckingswiftui.com) (or [Gosh Darn SwiftUI](https://goshdarnswiftui.com)) for a nice "cheat sheet" and a [breakdown of UIKit equivalent APIs](https://fuckingswiftui.com/#uikit-equivalent-in-swiftui).
 
+## Changelogs
+
+- [SwiftUI updates - Apple Developer](https://developer.apple.com/documentation/updates/swiftui)
+- [SwiftUI Index – mackuba.eu](https://mackuba.eu/swiftui/changelog)
+
 ## WWDC Lounges
 
 - [2021 SwiftUI Lounge Q&As](https://roblack.github.io/WWDC21Lounges/)
@@ -47,6 +52,12 @@ Apps built fully (or mostly) with SwiftUI.
 #### [Working With UIViewRepresentable](https://chris.eidhof.nl/post/view-representable/)
 
 > When we work with SwiftUI, we can always drop down to UIKit level by using UIViewRepresentable, NSViewRepresentable or UIViewControllerRepresentable. The documentation around these protocols is still pretty sparse, and it can be hard to get them to work exactly the way we want. I tried to come up with some rules and patterns for using them.
+
+#### [SwiftUI Prefers Semantics](https://danielsaidi.com/blog/2023/06/15/swiftui-prefers-semantics)
+
+> SwiftUI get amazing updates every year. If you however have to support old OS versions, you may be unable to use the new tools, or jump through hoops to make it work.
+>
+> In this post, let’s look at a semantic approach to use new, non-critical features in apps that target old OS versions.
 
 ## Collections
 
@@ -123,7 +134,7 @@ See Michael Tsai's post on [iOS 15 Shortcuts and SwiftUI](https://mjtsai.com/blo
 #### [Random Color for SwiftUI](https://gist.github.com/steipete/579edd8bd8b25dc8a89b546b54d9222f)
 
 > Setting a random background color is a great way to detect an accidental SwiftUI loop. The tricky part is understanding what triggers the loop tho.
-> 
+>
 > — [@steipete, Peter Steinberger](https://mobile.twitter.com/steipete/status/1379483193708052480)
 
 See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blog/2021/04/08/watchsmith-2-dev-notes/):
@@ -229,10 +240,10 @@ See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blo
 #### [A guide to SwiftUI’s state management system](https://www.swiftbysundell.com/articles/swiftui-state-management-guide/)
 
 > What separates SwiftUI from Apple’s previous UI frameworks isn’t just how views and other UI components are defined, but also how view-level state is managed throughout an app that uses it.
-> 
+>
 >  [...]
-> 
-> This week, let’s take a closer look at each of those property wrappers, how they relate to each other, and how they make up different parts of SwiftUI’s overall state management system. 
+>
+> This week, let’s take a closer look at each of those property wrappers, how they relate to each other, and how they make up different parts of SwiftUI’s overall state management system.
 
 #### [Mastering toolbars in SwiftUI](https://swiftwithmajid.com/2020/07/15/mastering-toolbars-in-swiftui/)
 
@@ -244,7 +255,7 @@ See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blo
 
 #### [Generating automatic placeholders for SwiftUI views](https://www.swiftbysundell.com/tips/swiftui-automatic-placeholders/)
 
-> SwiftUI now ships with a new, built-in modifier that makes it really easy to automatically generate a placeholder for any view. 
+> SwiftUI now ships with a new, built-in modifier that makes it really easy to automatically generate a placeholder for any view.
 
 #### [Creating custom `.redacted` effects](https://fivestars.blog/code/redacted-custom-effects.html)
 
@@ -329,3 +340,7 @@ See also, [David Smiths's "Random Border Trick"](https://www.david-smith.org/blo
 #### [Running Code Only Once in SwiftUI](https://www.swiftjectivec.com/swiftui-run-code-only-once-versus-onappear-or-task/)
 
 > I’ve had a few situations in SwiftUI where I only want things to fire once and initially. At face value, this seems like a job for either `.onAppear` or the more nascent `.task`.
+
+#### [Michael Tsai - Blog - SwiftUI Data Flow 2023](https://mjtsai.com/blog/2023/07/06/swiftui-data-flow-2023/)
+
+> Michael Tsai roundup.

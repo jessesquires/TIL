@@ -12,6 +12,8 @@
 
 - [Compiler optimizations](https://gist.github.com/lsavino/38367f10c2d20aeec4f031610d2929b8)
 
+- [Swift-Macros: A curated list of awesome Swift Macros](https://github.com/krzysztofzablocki/Swift-Macros)
+
 #### Tip: mark a workaround for a bug as deprecated in next compiler version, [@olebegemann](https://twitter.com/olebegemann/status/1294583027583123458):
 
 > If you write a workaround for a bug, mark it as deprecated in the next compiler version to get a timely reminder to check if the bug has been fixed. If it has, delete the workaround. If it hasn’t, update the deprecation to the next version.

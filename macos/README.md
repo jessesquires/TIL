@@ -27,3 +27,4 @@ See also: [Apple Platform Development](../apple_platform)
 - [The Wisdom of Quinn: Informative DevForum posts from everyone's favorite DTS member](https://github.com/macshome/The-Wisdom-of-Quinn)
 - [macOS Developer Resources](https://github.com/hisaac/macOS-Developer-Resources)
 - [UTIs.cc](www.utis.cc): where shared UTIs can find a home
+- [Advanced macOS Commands - saurabhs.org](https://saurabhs.org/advanced-macos-commands)

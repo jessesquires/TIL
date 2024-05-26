@@ -49,3 +49,7 @@
 #### [Core Data Reform: Achieving Elegant Concurrency Operations like SwiftData](https://fatbobman.com/en/posts/core-data-reform-achieving-elegant-concurrency-operations-like-swiftdata/)
 
 > Can we integrate some of SwiftData’s excellent design philosophies and ingenious implementations into the practical use of Core Data? This article aims to explore how to introduce elegant and safe concurrency operations similar to those of SwiftData into Core Data, implementing a Core Data version of `@ModelActor`.
+
+#### [Using Codable with Core Data and NSManagedObject](https://www.donnywals.com/using-codable-with-core-data-and-nsmanagedobject/)
+
+> If you've ever wanted to decode a bunch of JSON data into NSManagedObject instances you've probably noticed that this isn't a straightforward exercise. With plain structs, you can conform your struct to Codable and you convert the struct from and to JSON data automatically.
