@@ -34,5 +34,6 @@
 ## Guides
 
 - [OSStatus: Apple API Errors](https://www.osstatus.com)
+- [SwiftyFlags: Swift language feature flags](https://flags.swiftythemes.com)
 - [Technotes: Apple Developer](https://developer.apple.com/documentation/Technotes): Learn about specific development topics through these in-depth technical articles
 - [Catalyst Sample Code Roundup](https://www.highcaffeinecontent.com/blog/20210605-Catalyst-Sample-Code-Roundup)
