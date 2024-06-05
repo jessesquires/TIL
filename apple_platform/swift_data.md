@@ -26,3 +26,7 @@
 #### [Making your SwiftData models Codable – Donny Wals](https://www.donnywals.com/making-your-swiftdata-models-codable/)
 
 > With SwiftData it's so much easier to define model objects so it makes sense to take a look at making SwiftData models `Codable` to see if it's better than Core Data.
+
+#### [SwiftData Issues in macOS 14 and iOS 17](https://mjtsai.com/blog/2024/06/04/swiftdata-issues-in-macos-14-and-ios-17/)
+
+> Michael Tsai roundup
