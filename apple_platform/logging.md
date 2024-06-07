@@ -33,6 +33,10 @@
 
 > Notes from Michael Tsai.
 
+#### [Modern logging with the OSLog framework in Swift](https://www.donnywals.com/modern-logging-with-the-oslog-framework-in-swift/)
+
+> In this post, I’d like to show you how you can set up a `Logger` from the `OSLog` framework in your app, and how you can use it to log messages that can help you debug your app and gain insights about problems your users experience.
+
 ## Other
 
 #### [Dangerous NSLog() Calls in Swift - mjtsai](https://mjtsai.com/blog/2021/11/02/dangerous-nslog-calls-in-swift/)
