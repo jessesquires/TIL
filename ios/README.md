@@ -38,9 +38,3 @@ See also: [Apple Platform Development](../apple_platform)
 - [Mike Ash, Friday Q & A](https://www.mikeash.com/pyblog/)
 - [Swift Unboxed](https://swiftunboxed.com)
 - [iOS Dev Directory](https://iosdevdirectory.com)
-
-## Guides
-
-- [Apple Design Resources](https://developer.apple.com/design/resources/)
-- [Apple Marketing Guidelines, Product Images, etc.](https://developer.apple.com/app-store/marketing/guidelines/)
-- [The Wisdom of Quinn: Informative DevForum posts from everyone's favorite DTS member](https://gist.github.com/macshome/0753d3fdf711cfe699533fe5059e50e2)
