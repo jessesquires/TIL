@@ -14,6 +14,10 @@
 
 > Practical solutions to problems with Swift Concurrency.
 
+#### [Async await in Swift: The Full Toolkit](https://www.emergetools.com/blog/posts/swift-async-await-the-full-toolkit), Emerge Tools
+
+> Today, we're going through the many techniques in the Swift Concurrency toolkit. We'll discuss theory when it's appropriate, but for each tool we'll also provide a context where it might be the best solution.
+
 #### [What is structured concurrency?](https://oleb.net/2021/structured-concurrency/)
 
 > Structured concurrency is a new term for most Swift developers. This is an attempt to decipher its meaning.
