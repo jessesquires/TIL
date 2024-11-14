@@ -32,3 +32,8 @@
 #### [Parsing Dates Without Times](https://mjtsai.com/blog/2021/05/18/parsing-dates-without-times/)
 
 > Parsing fixed-format date strings is tricky. For an explanation as to why, see QA1480 NSDateFormatter and Internet Dates. However, there’s an extra gotcha when you try to parse fixed-format date strings that don’t include a time.
+
+#### [AnchoredRelativeFormatStyle: The Hidden Replacement for Date RelativeFormatStyle](https://alejandromp.com/development/blog/anchored-relative-format-style-the-hidden-replacement-for-date-relative-format-style/)
+
+> Today I made an exciting discovery: the existence of `AnchoredRelativeFormatStyle`. An API that, as of the time of writing this, barely appears in search results other than Apple’s sparse documentation. And to my surprise, it’s exactly what I’ve been looking for over the past few years.
+
