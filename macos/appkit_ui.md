@@ -25,3 +25,7 @@
 #### [View Clipping Changes in macOS 14 Sonoma - Indie Stack](https://indiestack.com/2023/06/view-clipping-sonoma/)
 
 > One of the most impactful changes to AppKit in the forthcoming macOS 14 Sonoma update is a change to the default clipping behavior for views. Apple announced that a long-present internal property, “clipsToBounds”, is now public. In tandem with this change, they are changing the default value for this property to false for apps that link against the macOS 14 SDK.
+
+#### [macOS Toolbar Guidelines](https://marioaguzman.github.io/design/toolbarguidelines/), Mario Guzman
+
+> The following sections are general guidelines that describe fundamental Toolbar layout and design principles for Mac applications. Following these guidelines will help you create functional and aesthetically pleasing toolbars that are easy for Mac users to understand and use.
