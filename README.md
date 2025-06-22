@@ -36,3 +36,4 @@
 - [Politics](./politics)
 - [Life](./life)
 - [Tech Industry](./tech_industry)
+
