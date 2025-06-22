@@ -1,4 +1,4 @@
-# TIL
+# TIL [![pages-build-deployment](https://github.com/jessesquires/TIL/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/jessesquires/TIL/actions/workflows/pages/pages-build-deployment)
 
 *__Today I Learned...__<br/>Things I've learned and/or things I want to remember. Notes, links, advice, example code, etc.*
 
