@@ -59,6 +59,7 @@ Be aware that client-side validation is susceptible to being undermined by hacks
 
 - [StoreKit Test framework](https://developer.apple.com/documentation/storekittest)
 - [How to test In-App purchases in Development](https://sarunw.com/posts/test-in-app-purchases-in-development/)
+- [Testing Subscriptions and In-App Purchases for iOS Apps Before Launch — Superwall](https://superwall.com/blog/testing-subscriptions-and-in-app-purchases-for-ios-apps-before-launch)
 
 ## SDK
 
