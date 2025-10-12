@@ -29,3 +29,15 @@
 #### [macOS Toolbar Guidelines](https://marioaguzman.github.io/design/toolbarguidelines/), Mario Guzman
 
 > The following sections are general guidelines that describe fundamental Toolbar layout and design principles for Mac applications. Following these guidelines will help you create functional and aesthetically pleasing toolbars that are easy for Mac users to understand and use.
+
+#### [Using `MDItemKeywords`](https://mastodon.social/@marioguzman/110578941262432702)
+
+> If you ship an app for macOS, please do this! I hardly see this at all with Mac apps.
+>
+> In your `info.plist`, add `MDItemKeywords` and the value is a list of keywords for your app separated by commas. This will show up in your More Info window for your app under “Keywords”.
+>
+> Why is this useful? Let’s say you make a Mastodon client app called anything BUT Mastodon, if you throw “Mastodon” in this list in `MDItemKeywords`, searching “Mastodon” in Spotlight would surface it as a search result!
+
+#### [NSWindowPlayground](https://github.com/martinhoeller/NSWindowPlayground)
+
+> A small utility app to test out various NSWindow style settings.
