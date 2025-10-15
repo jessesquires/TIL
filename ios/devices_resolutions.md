@@ -13,4 +13,5 @@
 - [iPhone 14 Screen Sizes](https://useyourloaf.com/blog/iphone-14-screen-sizes/)
 - [iPhone 15 Screen Sizes](https://useyourloaf.com/blog/iphone-15-screen-sizes/)
 - [iPhone 16 Screen Sizes](https://useyourloaf.com/blog/iphone-16-screen-sizes/)
+- [iPhone 17 Screen Sizes](https://useyourloaf.com/blog/iphone-17-screen-sizes/)
 - [iPad 2024 Screen Sizes](https://useyourloaf.com/blog/ipad-2024-screen-sizes/)
