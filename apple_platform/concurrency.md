@@ -8,11 +8,15 @@
     - advanced discussion on thread pool. comparisons to GCD, locks, etc.
 - [WWDC17: Modernizing Grand Central Dispatch Usage](https://developer.apple.com/videos/play/wwdc2017/706/)
 
-## Swift Concurrency (`Task`, `async`, `await`, etc.)
+## Swift Concurrency (`Task`, `async`, `await`, `Actor` etc.)
 
 #### [Concurrency Recipes](https://github.com/mattmassicotte/ConcurrencyRecipes), Matt Massicotte
 
 > Practical solutions to problems with Swift Concurrency.
+
+#### [Fucking Approachable Swift Concurrency](https://fuckingapproachableswiftconcurrency.com/en/)
+
+> Finally understand async/await, Tasks, and why the compiler keeps yelling at you.
 
 #### [Async await in Swift: The Full Toolkit](https://www.emergetools.com/blog/posts/swift-async-await-the-full-toolkit), Emerge Tools
 
