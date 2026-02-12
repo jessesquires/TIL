@@ -53,7 +53,8 @@ Be aware that client-side validation is susceptible to being undermined by hacks
 
 ## Blogs
 
-- https://sarunw.com/posts/manage-in-app-subscription-in-swiftui/
+- [Migrating an iOS app from Paid up Front to Freemium – Donny Wals](https://www.donnywals.com/migrating-an-ios-app-from-paid-up-front-to-freemium/)
+- [Allow users to manage In-App Subscription in SwiftUI - Sarunw](https://sarunw.com/posts/manage-in-app-subscription-in-swiftui/)
 
 ## Testing
 
