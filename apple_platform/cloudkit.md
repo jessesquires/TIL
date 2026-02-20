@@ -9,6 +9,10 @@
 
 ## Links
 
+#### [CKSyncEngine questions and answers](https://christianselig.com/2026/01/cksyncengine/)
+
+> I’ve had a lot of fun working with `CKSyncEngine` over the last month or so. I truly think it’s one of the best APIs Apple has built, and they’ve managed to take a very complex topic (cloud syncing) and make it very digestible and easy to integrate, without having to get into the weeds of `CKOperation` and whatnot like you had to in previous years.
+
 #### [Syncing data with CloudKit in your iOS app using CKSyncEngine and Swift](https://superwall.com/blog/syncing-data-with-cloudkit-in-your-ios-app-using-cksyncengine-and-swift-and-swiftui)
 
 > Historically, it's been hard to get started with. The learning curve is higher than most frameworks, making the barrier to entry a non-starter for many developers. But today, I'm here to help anyone who wants to figure out how sync works in iOS apps. With the new `CKSyncEngine`, it's much, much easier to implement. Apple is dogfooding it too — both Freeform and `NSUbiquitousKeyValueStore` use it.
