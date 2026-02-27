@@ -30,3 +30,9 @@
 #### [SwiftData Issues in macOS 14 and iOS 17](https://mjtsai.com/blog/2024/06/04/swiftdata-issues-in-macos-14-and-ios-17/)
 
 > Michael Tsai roundup
+
+#### [Measuring Core Data and SwiftData - Yaacoub](https://yaacoub.github.io/articles/swift-tip/measuring-core-data-and-swiftdata/)
+
+> If I were starting a new SwiftUI app today:
+> - I would choose SwiftData for small to medium apps, rapid prototyping, or projects deeply integrated with SwiftUI.
+> - I would choose Core Data for large datasets, long-lived projects, or architectures requiring fine-grained control.
