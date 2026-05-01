@@ -19,3 +19,5 @@
 > This is slightly misleading, though. Despite what the preview shows, Date has no concept of days, months, years, any of that stuff. It deals solely with time, and more specifically, the number of seconds that have passed since midnight of 1 January 2001, in UTC.
 
 #### [SortComparator and SortDescriptor](https://useyourloaf.com/blog/sortcomparator-and-sortdescriptor/)
+
+#### [FormatStyle Guide](https://formatstyle.guide/number/)
